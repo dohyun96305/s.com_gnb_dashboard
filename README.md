@@ -1,6 +1,6 @@
 # S.com GNB Hover 수집 및 대시보드
 
-Samsung 국가별 사이트의 데스크톱 GNB를 hover하여 메뉴 링크와 캡처 이미지를 수집하고, 결과를 Streamlit 대시보드에서 확인하는 도구입니다.
+Samsung 국가별 사이트의 데스크톱 GNB를 hover하여 메뉴 링크와 캡처 이미지를 수집하고, 결과를 Streamlit 대시보드에서 확인 및 배포하는 도구입니다.
 
 현재 사용 파일은 `config.py`, `gnb_explorer.py`, `gnb_dashboard.py`, `urls.csv`입니다. `temp/`는 이전 작업을 보관한 참고용 폴더이며 실행 대상이 아닙니다.
 
