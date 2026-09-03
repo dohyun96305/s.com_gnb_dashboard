@@ -1,0 +1,1158 @@
+{
+  "url": "https://www.samsung.com/sec",
+  "capturedAt": "2026-08-14T14:32:55+09:00",
+  "detection": "structure-and-hover-diff",
+  "root": {
+    "selector": "div",
+    "role": "",
+    "id": "",
+    "className": "header__navi__inner",
+    "score": 115,
+    "interactiveCount": 53
+  },
+  "menus": [
+    {
+      "menu": "",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_00_menu_0.jpg"
+    },
+    {
+      "menu": "AI 구독클럽",
+      "menuHref": "https://www.samsung.com/sec/ai-subs/#aisubs",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "주방가전",
+          "href": "https://www.samsung.com/sec/refrigerators/all-refrigerators/?only-ai-subs",
+          "ariaLabel": ""
+        },
+        {
+          "text": "리빙가전",
+          "href": "https://www.samsung.com/sec/washers-and-dryers/all-washers-and-dryers/?only-ai-subs",
+          "ariaLabel": ""
+        },
+        {
+          "text": "PC/주변기기",
+          "href": "https://www.samsung.com/sec/galaxybook/all-galaxybook/?only-ai-subs",
+          "ariaLabel": ""
+        },
+        {
+          "text": "TV/영상∙음향",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?only-ai-subs",
+          "ariaLabel": ""
+        },
+        {
+          "text": "모바일",
+          "href": "https://www.samsung.com/sec/tablets/all-tablets/?only-ai-subs",
+          "ariaLabel": ""
+        },
+        {
+          "text": "AI 구독클럽",
+          "href": "https://www.samsung.com/sec/ai-subs/#aisubs",
+          "ariaLabel": ""
+        },
+        {
+          "text": "New 갤럭시 AI 구독클럽 가이드",
+          "href": "https://www.samsung.com/sec/ai-subs/galaxyclub/guide/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "AI 구독클럽 가이드",
+          "href": "https://www.samsung.com/sec/ai-subs/guide/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "AI 구독클럽 제휴 혜택",
+          "href": "https://www.samsung.com/sec/ai-subs/event/all-benefits/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_01_AI.jpg"
+    },
+    {
+      "menu": "모바일",
+      "menuHref": "https://www.samsung.com/sec/smartphones/all-smartphones/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "갤럭시 스마트폰 NEW",
+          "href": "https://www.samsung.com/sec/smartphones/all-smartphones",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 탭",
+          "href": "https://www.samsung.com/sec/tablets/all-tablets/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 북 NEW",
+          "href": "https://www.samsung.com/sec/galaxybook/all-galaxybook/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 워치 NEW",
+          "href": "https://www.samsung.com/sec/watches/all-watches/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 버즈",
+          "href": "https://www.samsung.com/sec/buds/all-buds/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 링",
+          "href": "https://www.samsung.com/sec/rings/all-rings/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 XR",
+          "href": "https://www.samsung.com/sec/xr/galaxy-xr/galaxy-xr",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 액세서리 NEW",
+          "href": "https://www.samsung.com/sec/mobile-accessories/all-mobile-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 인증중고폰",
+          "href": "https://www.samsung.com/sec/smartphones/certified-re-newed-phones/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시의 모든 것",
+          "href": "https://www.samsung.com/sec/mobile/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 AI",
+          "href": "https://www.samsung.com/sec/galaxy-ai/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "나에게 맞는 갤럭시",
+          "href": "https://www.samsung.com/sec/mobile/find-your-galaxy/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시로 스위치",
+          "href": "https://www.samsung.com/sec/mobile/switch-to-galaxy/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/sec/one-ui/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성 헬스",
+          "href": "https://www.samsung.com/sec/apps/samsung-health/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "앱 & 서비스",
+          "href": "https://www.samsung.com/sec/apps/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 간편보상",
+          "href": "https://www.samsung.com/sec/galaxy-trade-in/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스 모바일/PC",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/im/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_02_menu_2.jpg"
+    },
+    {
+      "menu": "TV/영상∙음향",
+      "menuHref": "https://www.samsung.com/sec/tvs/all-tvs/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Micro RGB",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?micro-rgb",
+          "ariaLabel": ""
+        },
+        {
+          "text": "OLED",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?oled",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Neo QLED",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?neo-qled-8k+neo-qled",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Mini LED",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?mini-led",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Crystal UHD",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?crystal-uhd",
+          "ariaLabel": ""
+        },
+        {
+          "text": "The Frame",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?the-frame",
+          "ariaLabel": ""
+        },
+        {
+          "text": "The Serif",
+          "href": "https://www.samsung.com/sec/tvs/all-tvs/?the-serif",
+          "ariaLabel": ""
+        },
+        {
+          "text": "무빙스타일",
+          "href": "https://www.samsung.com/sec/moving_style/all-moving_style/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "사운드바",
+          "href": "https://www.samsung.com/sec/samsung-audio/all-samsung-audio/?Q-Series-Soundbar+Super-Slim-Soundbar+S-Series-Soundbar+Soundbar",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Wifi 스피커",
+          "href": "https://www.samsung.com/sec/samsung-audio/all-samsung-audio/?wi-fi-speakers",
+          "ariaLabel": ""
+        },
+        {
+          "text": "프로젝터",
+          "href": "https://www.samsung.com/sec/projectors/all-projectors/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "TV 액세서리",
+          "href": "https://www.samsung.com/sec/tv-accessories/all-tv-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "오디오 액세서리",
+          "href": "https://www.samsung.com/sec/audio-accessories/all-audio-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스",
+          "href": "https://www.samsung.com/sec/samsung-care-plus/all-samsung-care-plus/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Samsung Vision AI",
+          "href": "https://www.samsung.com/sec/tvs/vision-ai-tv/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Micro RGB TV의 모든 것",
+          "href": "https://www.samsung.com/sec/tvs/micro-rgb-tv/highlights/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "OLED TV의 모든 것",
+          "href": "https://www.samsung.com/sec/tvs/oled-tv/highlights/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "The Frame TV의 모든 것",
+          "href": "https://www.samsung.com/sec/lifestyle-tvs/the-frame/highlights/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성 TV 플러스의 모든 것",
+          "href": "https://www.samsung.com/sec/tvs/smart-tv/samsung-tv-plus/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "TV 구매가이드",
+          "href": "https://www.samsung.com/sec/tvs/tv-buying-guide/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "TV 설치가이드",
+          "href": "https://www.samsung.com/sec/buying-guide/#tvs-installation-guide",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Micro LED의 모든 것",
+          "href": "https://www.samsung.com/sec/tvs/micro-led/highlights/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_03_TV.jpg"
+    },
+    {
+      "menu": "주방가전",
+      "menuHref": "https://www.samsung.com/sec/refrigerators/all-refrigerators/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "냉장고",
+          "href": "https://www.samsung.com/sec/refrigerators/all-refrigerators/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "김치냉장고",
+          "href": "https://www.samsung.com/sec/kimchi-refrigerators/all-kimchi-refrigerators/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "식기세척기",
+          "href": "https://www.samsung.com/sec/dishwashers/all-dishwashers/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "인덕션",
+          "href": "https://www.samsung.com/sec/electric-range/all-electric-range/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "큐커 멀티/오븐",
+          "href": "https://www.samsung.com/sec/qooker-multi-ovens/all-qooker-multi-ovens/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "전자레인지",
+          "href": "https://www.samsung.com/sec/micro-wave-ovens/all-micro-wave-ovens/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "정수기",
+          "href": "https://www.samsung.com/sec/water-purifier/all-water-purifier/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "후드",
+          "href": "https://www.samsung.com/sec/hood/all-hood/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "주방 소형가전",
+          "href": "https://www.samsung.com/sec/kitchen-small-appliance/all-kitchen-small-appliance/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "주방가전 소모품/액세서리",
+          "href": "https://www.samsung.com/sec/kitchen-accessories/all-kitchen-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스",
+          "href": "https://www.samsung.com/sec/samsung-care-plus/all-samsung-care-plus/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Bespoke AI의 모든 것",
+          "href": "https://www.samsung.com/sec/home-appliances/bespoke-home/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Bespoke AI와 만난 스마트싱스",
+          "href": "https://www.samsung.com/sec/home-appliance/bespoke-ai-smartthings/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Bespoke Infinite Line",
+          "href": "https://www.samsung.com/sec/bespoke-infinite-line/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "데이코",
+          "href": "https://www.dacorkorea.com/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "주방가전 FAQ",
+          "href": "https://www.samsung.com/sec/buying-guide/#kitchen-faq",
+          "ariaLabel": ""
+        },
+        {
+          "text": "냉장고 구매가이드",
+          "href": "https://www.samsung.com/sec/home-appliances/buying-guide/refrigerators-buying-guide/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "식기세척기 설치가이드",
+          "href": "https://www.samsung.com/sec/dishwashers/dishwashers-install-guide/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "정수기 설치가이드",
+          "href": "https://www.samsung.com/sec/buying-guide/#water-purifiers-installation-guide",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성 인테리어핏 설치서비스",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/CE/reform/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_04_menu_4.jpg"
+    },
+    {
+      "menu": "리빙가전",
+      "menuHref": "https://www.samsung.com/sec/washers-and-dryers/all-washers-and-dryers/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "세탁기 & 건조기",
+          "href": "https://www.samsung.com/sec/washers-and-dryers/all-washers-and-dryers/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "에어드레서 & 슈드레서",
+          "href": "https://www.samsung.com/sec/airdressers-and-shoedressers/all-airdressers-and-shoedressers/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "에어컨",
+          "href": "https://www.samsung.com/sec/air-conditioners/all-air-conditioners/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "시스템에어컨",
+          "href": "https://www.samsung.com/sec/system-air-conditioners/all-system-air-conditioners/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "공기청정기",
+          "href": "https://www.samsung.com/sec/air-cleaner/all-air-cleaner/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "제습기",
+          "href": "https://www.samsung.com/sec/dehumidifier/all-dehumidifier/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "청소기",
+          "href": "https://www.samsung.com/sec/vacuum-cleaners/all-vacuum-cleaners/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "리빙 소형가전",
+          "href": "https://www.samsung.com/sec/small-appliances/all-small-appliances/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "리빙가전 소모품/액세서리",
+          "href": "https://www.samsung.com/sec/living-accessories/all-living-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스",
+          "href": "https://www.samsung.com/sec/samsung-care-plus/all-samsung-care-plus/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Bespoke AI의 모든 것",
+          "href": "https://www.samsung.com/sec/home-appliances/bespoke-home/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "리빙가전 FAQ",
+          "href": "https://www.samsung.com/sec/buying-guide/#living-faq",
+          "ariaLabel": ""
+        },
+        {
+          "text": "세탁기 설치가이드",
+          "href": "https://www.samsung.com/sec/buying-guide/#setting-washing-machines",
+          "ariaLabel": ""
+        },
+        {
+          "text": "건조기 설치가이드",
+          "href": "https://www.samsung.com/sec/buying-guide/#setting-check-dryers",
+          "ariaLabel": ""
+        },
+        {
+          "text": "에어컨 구매가이드",
+          "href": "https://www.samsung.com/sec/buying-guide/#air-conditioners-buying-guide",
+          "ariaLabel": ""
+        },
+        {
+          "text": "시스템에어컨 구매가이드",
+          "href": "https://www.samsung.com/sec/buying-guide/#system-air-conditioners-buying-guide",
+          "ariaLabel": ""
+        },
+        {
+          "text": "로봇청소기 설치가이드",
+          "href": "https://www.samsung.com/sec/vacuum-cleaners/bespoke_ai_steam_interior_fit/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "공기청정기 필터 찾기",
+          "href": "https://www.samsung.com/sec/buying-guide/#filter-search",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성 인테리어핏 설치서비스",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/CE/reform/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_05_menu_5.jpg"
+    },
+    {
+      "menu": "PC/주변기기",
+      "menuHref": "https://www.samsung.com/sec/galaxybook/all-galaxybook/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "갤럭시 북",
+          "href": "https://www.samsung.com/sec/galaxybook/all-galaxybook/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "데스크탑",
+          "href": "https://www.samsung.com/sec/desktop/all-desktop/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "PC 액세서리",
+          "href": "https://www.samsung.com/sec/pc-accessories/all-pc-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "모니터",
+          "href": "https://www.samsung.com/sec/monitors/all-monitors/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "무빙스타일",
+          "href": "https://www.samsung.com/sec/moving-style/all-moving-style/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "메모리/스토리지",
+          "href": "https://www.samsung.com/sec/memory-storage/all-memory-storage/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "프린터",
+          "href": "https://www.samsung.com/sec/printers/all-printers/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "토너/잉크",
+          "href": "https://www.samsung.com/sec/printer-supplies/all-printer-supplies/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "스마트 사이니지",
+          "href": "https://www.samsung.com/sec/business/smart-signage/all-smart-signage/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "LED 사이니지",
+          "href": "https://www.samsung.com/sec/business/led-signage/all-led-signage/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "상업용 TV",
+          "href": "https://www.samsung.com/sec/business/hotel-tvs/all-hotel-tvs/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "비즈니스 모니터",
+          "href": "https://www.samsung.com/sec/business/monitors/all-monitors/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "오디세이의 모든 것",
+          "href": "https://www.samsung.com/sec/monitors/odyssey-gaming-monitor/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "모니터 구매가이드",
+          "href": "https://www.samsung.com/sec/monitors/monitor-buying-guide/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 북 다운로드 센터",
+          "href": "https://www.samsung.com/global/galaxybooks-downloadcenter/?siteCode=sec",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Windows 11",
+          "href": "https://www.samsung.com/sec/pc/windows-11/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Copilot+ PC",
+          "href": "https://www.samsung.com/sec/pc/galaxy-book-copilot-plus-pcs/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "프린터 잉크/토너 찾아보기",
+          "href": "https://www.samsung.com/sec/printers/printer-supplies/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "레이저 복합기/프린터 비교하기",
+          "href": "https://www.samsung.com/sec/printers/compare/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "나만의 프린터 매칭 테스트",
+          "href": "https://www.samsung.com/sec/buying-guide/#printers-mpti",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_06_PC.jpg"
+    },
+    {
+      "menu": "하만",
+      "menuHref": "https://www.samsung.com/sec/harman-speaker/all-harman-speaker/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "스피커",
+          "href": "https://www.samsung.com/sec/harman-speaker/all-harman-speaker/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "헤드폰",
+          "href": "https://www.samsung.com/sec/harman-headphone/all-harman-headphone/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "이어폰",
+          "href": "https://www.samsung.com/sec/harman-earphone/all-harman-earphone/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "하만 사운드바",
+          "href": "https://www.samsung.com/sec/harman-sound-bar/all-harman-sound-bar/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "QUANTUM 게이밍",
+          "href": "https://www.samsung.com/sec/harman-gaming-speaker-headphone/all-harman-gaming-speaker-headphone/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "럭셔리",
+          "href": "https://www.samsung.com/sec/harman-luxury/all-harman-luxury/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "JBL",
+          "href": "https://www.samsung.com/sec/harman-lifestyle-audio/all-harman-lifestyle-audio/?jbl",
+          "ariaLabel": ""
+        },
+        {
+          "text": "하만카돈",
+          "href": "https://www.samsung.com/sec/harman-lifestyle-audio/all-harman-lifestyle-audio/?harman-kardon",
+          "ariaLabel": ""
+        },
+        {
+          "text": "AKG",
+          "href": "https://www.samsung.com/sec/harman-lifestyle-audio/all-harman-lifestyle-audio/?akg",
+          "ariaLabel": ""
+        },
+        {
+          "text": "ARCAM",
+          "href": "https://www.samsung.com/sec/harman-lifestyle-audio/all-harman-lifestyle-audio/?arcam",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_07_menu_7.jpg"
+    },
+    {
+      "menu": "웨어러블",
+      "menuHref": "https://www.samsung.com/sec/watches/all-watches/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "갤럭시 워치 NEW",
+          "href": "https://www.samsung.com/sec/watches/all-watches/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 버즈",
+          "href": "https://www.samsung.com/sec/buds/all-buds/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 링",
+          "href": "https://www.samsung.com/sec/rings/all-rings/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 XR",
+          "href": "https://www.samsung.com/sec/xr/galaxy-xr/galaxy-xr",
+          "ariaLabel": ""
+        },
+        {
+          "text": "웨어러블 액세서리 NEW",
+          "href": "https://www.samsung.com/sec/mobile-accessories/all-mobile-accessories/?watch+buds+smart-tag",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시의 모든 것",
+          "href": "https://www.samsung.com/sec/mobile/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성 헬스",
+          "href": "https://www.samsung.com/sec/apps/samsung-health/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 AI",
+          "href": "https://www.samsung.com/sec/galaxy-ai/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "나에게 맞는 갤럭시",
+          "href": "https://www.samsung.com/sec/mobile/find-your-galaxy/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시로 스위치",
+          "href": "https://www.samsung.com/sec/mobile/switch-to-galaxy/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/sec/one-ui/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "앱 & 서비스",
+          "href": "https://www.samsung.com/sec/apps/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 간편보상",
+          "href": "https://www.samsung.com/sec/galaxy-trade-in/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스 모바일/PC",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/IM/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_08_menu_8.jpg"
+    },
+    {
+      "menu": "소모품/액세서리",
+      "menuHref": "https://www.samsung.com/sec/accessories/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "갤럭시 스마트폰 액세서리 NEW",
+          "href": "https://www.samsung.com/sec/mobile-accessories/all-mobile-accessories/?smartphones",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 탭 액세서리",
+          "href": "https://www.samsung.com/sec/mobile-accessories/all-mobile-accessories/?tablets",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 워치 액세서리 NEW",
+          "href": "https://www.samsung.com/sec/mobile-accessories/all-mobile-accessories/?watch",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 버즈 액세서리",
+          "href": "https://www.samsung.com/sec/mobile-accessories/all-mobile-accessories/?buds",
+          "ariaLabel": ""
+        },
+        {
+          "text": "TV 액세서리",
+          "href": "https://www.samsung.com/sec/tv-accessories/all-tv-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "오디오 액세서리",
+          "href": "https://www.samsung.com/sec/samsung-audio/all-samsung-audio/?subwoofer+skin+Rear-Speaker",
+          "ariaLabel": ""
+        },
+        {
+          "text": "주방가전 소모품/액세서리",
+          "href": "https://www.samsung.com/sec/kitchen-accessories/all-kitchen-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "리빙가전 소모품/액세서리",
+          "href": "https://www.samsung.com/sec/living-accessories/all-living-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "PC 액세서리",
+          "href": "https://www.samsung.com/sec/pc-accessories/all-pc-accessories/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "토너/잉크",
+          "href": "https://www.samsung.com/sec/printer-supplies/all-printer-supplies/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "소모품/액세서리 찾기",
+          "href": "https://www.samsung.com/sec/accessories/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_09_menu_9.jpg"
+    },
+    {
+      "menu": "AI 신혼가전",
+      "menuHref": "https://www.samsung.com/sec/event/wedding",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_10_AI.jpg"
+    },
+    {
+      "menu": "기획전",
+      "menuHref": "https://www.samsung.com/sec/shop/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "감사 페스티벌 디지털 온누리상품권 신청",
+          "href": "https://www.samsung.com/sec/event/thankyoufestival-benefit/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 Z 폴드8 NEW",
+          "href": "https://www.samsung.com/sec/smartphones/galaxy-z-fold8/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 Z 폴드8 울트라 NEW",
+          "href": "https://www.samsung.com/sec/smartphones/galaxy-z-fold8-ultra/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 탭 S11 시리즈",
+          "href": "https://www.samsung.com/sec/tablets/galaxy-tab-s11/buy/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 워치2 울트라 NEW",
+          "href": "https://www.samsung.com/sec/watches/galaxy-watch/galaxy-watch-ultra2/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 버즈",
+          "href": "https://www.samsung.com/sec/buds/galaxy-buds4/buy/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 북6 시리즈 NEW",
+          "href": "https://www.samsung.com/sec/galaxybook/galaxy-book6-series/buy/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Neo QLED NEW",
+          "href": "https://www.samsung.com/sec/tvs/neo-qled-4k-qnh70-d2c/KQ85QNH70AFXKR/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Mini LED NEW",
+          "href": "https://www.samsung.com/sec/tvs/mini-led-mh75-d2c/KU85MH75AFXKR/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "무빙스타일",
+          "href": "",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Bespoke AI 하이브리드",
+          "href": "",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Bespoke AI 콤보",
+          "href": "",
+          "ariaLabel": ""
+        },
+        {
+          "text": "무풍콤보 갤러리",
+          "href": "",
+          "ariaLabel": ""
+        },
+        {
+          "text": "Bespoke AI 스팀 울트라",
+          "href": "https://www.samsung.com/sec/vacuum-cleaners/package-vr90f01sags-d2c/VR90F01SAGS/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성닷컴에서 더 많은 혜택을",
+          "href": "https://www.samsung.com/sec/buy-direct-get-more/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "감사 페스티벌 디지털 온누리상품권 신청",
+          "href": "https://www.samsung.com/sec/event/thankyoufestival-benefit/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼닷 썸머 페스타 구매하기",
+          "href": "https://www.samsung.com/sec/event/2026-summer-festa/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성닷컴 앱 다운로드",
+          "href": "https://play.google.com/store/apps/details?id=com.samsung.sec.android.prd&pli=1",
+          "ariaLabel": ""
+        },
+        {
+          "text": "AI 일상",
+          "href": "https://www.samsung.com/sec/ai-living/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "스마트싱스",
+          "href": "https://www.samsung.com/sec/smartthings/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스 모바일/PC",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/im/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스 가전/TV",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/ce/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 캠퍼스",
+          "href": "https://www.samsung.com/sec/galaxycampus/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 AI 클래스",
+          "href": "https://www.samsung.com/sec/ai-class/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "#Samsung Experience",
+          "href": "https://www.samsung.com/sec/samsungexperience/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_11_menu_11.jpg"
+    },
+    {
+      "menu": "고객지원",
+      "menuHref": "https://www.samsung.com/sec/support/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "무엇을 도와드릴까요?",
+          "href": "https://www.samsung.com/sec/support/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "고객서비스 알림",
+          "href": "https://www.samsung.com/sec/support/newsalert/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "전화상담 예약",
+          "href": "https://www.samsungsvc.co.kr/login?returnURL=https://www.samsungsvc.co.kr/consult/call",
+          "ariaLabel": ""
+        },
+        {
+          "text": "출장 서비스 예약",
+          "href": "https://www.samsungsvc.co.kr/login?returnURL=https://www.samsungsvc.co.kr/reserve/reserveEngineer&route=ACC",
+          "ariaLabel": ""
+        },
+        {
+          "text": "갤럭시 수리모드",
+          "href": "https://www.samsung.com/sec/maintenance-mode/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스 모바일/PC",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/im/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성케어플러스 가전/TV",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/ce/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성 인테리어핏 설치서비스",
+          "href": "https://www.samsung.com/sec/Samsung-Care-Plus/CE/reform/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "오늘보장 & 시간 맞춤/저녁 설치 서비스",
+          "href": "https://www.samsung.com/sec/eventList/delivery-service/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "임직원 복지몰 개설 문의",
+          "href": "https://www.samsung.com/sec/welfare",
+          "ariaLabel": ""
+        },
+        {
+          "text": "워런티",
+          "href": "https://www.samsung.com/sec/support/warranty/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "매뉴얼 & 다운로드",
+          "href": "https://www.samsung.com/sec/support/user-manuals-and-guide/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "서비스센터 찾기",
+          "href": "https://www.samsung.com/sec/digitalplaza/centerMain/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성닷컴 FAQ",
+          "href": "https://www.samsung.com/sec/faq/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_12_menu_12.jpg"
+    },
+    {
+      "menu": "비즈니스",
+      "menuHref": "https://www.samsung.com/sec/business/",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_13_menu_13.jpg"
+    },
+    {
+      "menu": "사업자몰",
+      "menuHref": "https://www.samsungebiz.com/sohomall/",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_14_menu_14.jpg"
+    },
+    {
+      "menu": "삼성스토어",
+      "menuHref": "https://www.samsung.com/sec/samsungstore/main/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "삼성스토어",
+          "href": "https://www.samsung.com/sec/samsungstore/main/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "신규 오픈 스토어",
+          "href": "https://www.samsung.com/sec/digitalplaza/newOpenStore/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성 강남",
+          "href": "https://www.samsung.com/sec/samsungstore/gangnam/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성스토어옴니",
+          "href": "https://www.samsung.com/sec/samsungstore/ssoGate/?returnUrl=https://www.samsungebiz.com/event/samsungstore/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "혼수고객 특별 혜택",
+          "href": "https://www.samsung.com/sec/event/weddingclub/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "입주·이사고객 특별 혜택",
+          "href": "https://www.samsung.com/sec/event/move/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성스토어 찾기",
+          "href": "https://www.samsung.com/sec/digitalplaza/storeMain/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성스토어 상담 예약",
+          "href": "https://www.samsung.com/sec/customer/reservationstore/?cusGbCd=10",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성스토어 진열 할인 제품",
+          "href": "https://www.samsung.com/sec/customer/salesStore/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_15_menu_15.jpg"
+    },
+    {
+      "menu": "지속가능경영",
+      "menuHref": "https://www.samsung.com/sec/sustainability/main/",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_16_menu_16.jpg"
+    },
+    {
+      "menu": "갤럭시 Z 폴드8 울트라",
+      "menuHref": "",
+      "menuAriaLabel": "통합검색 레이어 열기",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_17_Z_8.jpg"
+    },
+    {
+      "menu": "장바구니 버튼",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_18_menu_18.jpg"
+    },
+    {
+      "menu": "로그인 메뉴버튼",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "로그인/회원가입",
+          "href": "",
+          "ariaLabel": "로그인/회원가입"
+        },
+        {
+          "text": "삼성계정을 만들어야 하는 이유",
+          "href": "https://www.samsung.com/sec/why-samsung-account/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "주문/배송조회",
+          "href": "https://www.samsung.com/sec/mypage/order/indexDeliveryList/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "멤버십",
+          "href": "https://www.samsung.com/sec/membership/membershipMain/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "나의 제품 관리",
+          "href": "https://www.samsung.com/sec/mypage/info/indexMyDeviceList/",
+          "ariaLabel": ""
+        },
+        {
+          "text": "쿠폰존",
+          "href": "",
+          "ariaLabel": ""
+        },
+        {
+          "text": "삼성닷컴 회원 혜택",
+          "href": "https://www.samsung.com/sec/eventList/benefitzone/",
+          "ariaLabel": ""
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_sec_19_menu_19.jpg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Python cache and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets
+.env
+.streamlit/secrets.toml
+
+# Generated local-only data
+.ppt-build/
+temp/
+output/translation_cache.json
+
+# Presentation artifacts are not needed for the dashboard deployment
+*.pptx
+*.inspect.ndjson
+
+# Operating system files
+.DS_Store
+Thumbs.db

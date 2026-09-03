@@ -1,0 +1,914 @@
+{
+  "url": "https://www.samsung.com/th",
+  "capturedAt": "2026-08-14T14:35:16+09:00",
+  "detection": "structure-and-hover-diff",
+  "root": {
+    "selector": "nav",
+    "role": "navigation",
+    "id": "component-id",
+    "className": "nv00-gnb-v4 nv00-gnb-v4--text-type nv00-gnb-v4--shy-light",
+    "score": 109.3,
+    "interactiveCount": 207
+  },
+  "menus": [
+    {
+      "menu": "Samsung",
+      "menuHref": "https://www.samsung.com/th/",
+      "menuAriaLabel": "Samsung",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_00_Samsung.jpg",
+      "menuEnglish": "Samsung"
+    },
+    {
+      "menu": "ช้อป",
+      "menuHref": "https://www.samsung.com/th/offer/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Z Fold8 Ultra ใหม่",
+          "href": "https://www.samsung.com/th/smartphones/galaxy-z-fold8-ultra/buy/",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Z Fold8 Ultra"
+        },
+        {
+          "text": "Galaxy Z Fold8 ใหม่",
+          "href": "https://www.samsung.com/th/smartphones/galaxy-z-fold8/buy/",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Z Fold8"
+        },
+        {
+          "text": "Galaxy S26 Ultra",
+          "href": "https://www.samsung.com/th/smartphones/galaxy-s26-ultra/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy S26 Ultra"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "https://www.samsung.com/th/tablets/galaxy-tab-s11/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab S11 Series"
+        },
+        {
+          "text": "Galaxy Watch Ultra2 ใหม่",
+          "href": "https://www.samsung.com/th/watches/galaxy-watch-ultra2/buy/",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Watch Ultra2"
+        },
+        {
+          "text": "Galaxy Buds4 Pro",
+          "href": "https://www.samsung.com/th/audio-sound/galaxy-buds4-pro/buy/?modelCode=SM-R640NZDAASA",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds4 Pro"
+        },
+        {
+          "text": "Neo QLED",
+          "href": "https://www.samsung.com/th/tvs/qled-tv/qn1eh-55-inch-neo-qled-4k-mini-led-smart-tv-qa55qn1ehakxxt/",
+          "ariaLabel": "",
+          "textEnglish": "Neo QLED"
+        },
+        {
+          "text": "Mini LED",
+          "href": "https://www.samsung.com/th/tvs/mini-led-tv/m80h-85-inch-4k-smart-tv-ua85m80hakxxt/",
+          "ariaLabel": "",
+          "textEnglish": "Mini LED"
+        },
+        {
+          "text": "Music Studio",
+          "href": "https://www.samsung.com/th/audio-devices/wireless-speaker/ls50h-black-hw-ls50h-xt/",
+          "ariaLabel": "",
+          "textEnglish": "Music Studio"
+        },
+        {
+          "text": "Odyssey G8",
+          "href": "https://www.samsung.com/th/monitors/gaming/odyssey-g8-g80hs-32-inch-dual-mode-6k-165hz-3k-330hz-ls32hg806esxxt/",
+          "ariaLabel": "",
+          "textEnglish": "Odyssey G8"
+        },
+        {
+          "text": "ตู้เย็น AI",
+          "href": "https://www.samsung.com/th/refrigerators/side-by-side/refrigerator-sbs-9-inch-ai-home-614l-black-doi-rs90f65d2fst/",
+          "ariaLabel": "",
+          "textEnglish": "AI Refrigerator"
+        },
+        {
+          "text": "เครื่องซักผ้า AI",
+          "href": "https://www.samsung.com/th/washers-and-dryers/washing-machines/wf90f27-front-loading-ai-home-ai-optiwash-plus-ultra-capacity-25kg-gray-wf90f25adsst/",
+          "ariaLabel": "",
+          "textEnglish": "AI Washing Machine"
+        },
+        {
+          "text": "แพ็กเกจเครื่องใช้ไฟฟ้า",
+          "href": "https://www.samsung.com/th/bundles/kitchen-appliance-package/washer-dryer-combo-wd90f21bcsst-and-side-by-side-refrigerators-rs57dg4100b4st-f-wd21rs574100/",
+          "ariaLabel": "",
+          "textEnglish": "Home Appliance Packages"
+        },
+        {
+          "text": "เครื่องปรับอากาศ AI WindFree™",
+          "href": "https://www.samsung.com/th/air-conditioners/wall-mount/ar70-d1a-ai-windfree-premium-energy-f-ar70f12d1awn/",
+          "ariaLabel": "",
+          "textEnglish": "AI WindFree™ Air Conditioner"
+        },
+        {
+          "text": "ซื้อจาก samsung.com รับข้อเสนอสุดคุ้ม",
+          "href": "https://www.samsung.com/th/buy-direct-get-more/",
+          "ariaLabel": "",
+          "textEnglish": "Shop at samsung.com and get the best deals"
+        },
+        {
+          "text": "New Shape Unfold ไซซ์ใหม่ ก่อนใคร",
+          "href": "https://www.samsung.com/th/offer/galaxy-z8-series/",
+          "ariaLabel": "",
+          "textEnglish": "New Shape Unfold: New Sizes Before Anyone Else"
+        },
+        {
+          "text": "แคมเปญสมาร์ทโฟนและแท็บเล็ต",
+          "href": "https://www.samsung.com/th/offer/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "Smartphone and Tablet Campaigns"
+        },
+        {
+          "text": "แคมเปญทีวีและเครื่องใช้ไฟฟ้า",
+          "href": "https://www.samsung.com/th/offer/ce-promotion/",
+          "ariaLabel": "",
+          "textEnglish": "TV and Home Appliances Campaign"
+        },
+        {
+          "text": "Samsung Live Shop",
+          "href": "https://www.samsung.com/th/offer/samsung-live-shop/?spr_o=1",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Live Shop"
+        },
+        {
+          "text": "AI Living",
+          "href": "https://www.samsung.com/th/ai-living/",
+          "ariaLabel": "",
+          "textEnglish": "AI Living"
+        },
+        {
+          "text": "SmartThings",
+          "href": "https://www.samsung.com/th/smartthings/",
+          "ariaLabel": "",
+          "textEnglish": "SmartThings"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/th/offer/samsung-care-plus/",
+          "ariaLabel": ". เปิดในหน้าต่างใหม่",
+          "textEnglish": "Samsung Care+"
+        },
+        {
+          "text": "โปรโมชันบัตรเครดิตและรูปแบบการชำระเงิน",
+          "href": "https://www.samsung.com/th/offer/why-buy-online/partnership/",
+          "ariaLabel": "",
+          "textEnglish": "Credit Card Promotions and Payment Methods"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_01_menu_1.jpg",
+      "menuEnglish": "Shop"
+    },
+    {
+      "menu": "สมาร์ทโฟน",
+      "menuHref": "https://www.samsung.com/th/smartphones/all-smartphones/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Smartphone ใหม่",
+          "href": "https://www.samsung.com/th/smartphones/all-smartphones/",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Smartphone"
+        },
+        {
+          "text": "Galaxy Tab",
+          "href": "https://www.samsung.com/th/tablets/all-tablets/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab"
+        },
+        {
+          "text": "Galaxy Watch ใหม่",
+          "href": "https://www.samsung.com/th/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Watch"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/th/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/th/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "Galaxy Accessories ใหม่",
+          "href": "https://www.samsung.com/th/mobile-accessories/all-mobile-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Accessories"
+        },
+        {
+          "text": "จำหน่ายเฉพาะที่ samsung.com",
+          "href": "https://www.samsung.com/th/smartphones/all-smartphones/?only-samsung",
+          "ariaLabel": "",
+          "textEnglish": "Available exclusively at samsung.com"
+        },
+        {
+          "text": "สิ่งที่ต้องรู้เกี่ยวกับ Galaxy",
+          "href": "https://www.samsung.com/th/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "What You Need to Know About the Galaxy"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/th/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "ค้นหา Galaxy ของคุณ",
+          "href": "https://www.samsung.com/th/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find your Galaxy"
+        },
+        {
+          "text": "Switch to Galaxy",
+          "href": "https://www.samsung.com/th/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/th/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/th/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "Apps & Services",
+          "href": "https://www.samsung.com/th/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps & Services"
+        },
+        {
+          "text": "เก่าแลกใหม่ สมาร์ทโฟน",
+          "href": "https://www.samsung.com/th/tradeinpromotion/",
+          "ariaLabel": "",
+          "textEnglish": "Trade-in for a new smartphone"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/th/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_02_menu_2.jpg",
+      "menuEnglish": "Smartphones"
+    },
+    {
+      "menu": "ทีวี เครื่องเสียง",
+      "menuHref": "https://www.samsung.com/th/tvs/all-tvs/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Micro RGB",
+          "href": "https://www.samsung.com/th/tvs/micro-rgb-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Micro RGB"
+        },
+        {
+          "text": "OLED",
+          "href": "https://www.samsung.com/th/tvs/oled-tv/",
+          "ariaLabel": "",
+          "textEnglish": "OLED"
+        },
+        {
+          "text": "Neo QLED",
+          "href": "https://www.samsung.com/th/tvs/neo-qled-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Neo QLED"
+        },
+        {
+          "text": "Mini LED",
+          "href": "https://www.samsung.com/th/tvs/mini-led-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Mini LED"
+        },
+        {
+          "text": "Crystal UHD",
+          "href": "https://www.samsung.com/th/tvs/all-tvs/?crystal-uhd",
+          "ariaLabel": "",
+          "textEnglish": "Crystal UHD"
+        },
+        {
+          "text": "The Frame",
+          "href": "https://www.samsung.com/th/lifestyle-tvs/the-frame/",
+          "ariaLabel": "",
+          "textEnglish": "The Frame"
+        },
+        {
+          "text": "The Movingstyle",
+          "href": "https://www.samsung.com/th/movable-screens/the-movingstyle/lsm7f-27-inch-ua27lsm7faxxxt/",
+          "ariaLabel": "",
+          "textEnglish": "The Movingstyle"
+        },
+        {
+          "text": "The Serif",
+          "href": "https://www.samsung.com/th/lifestyle-tvs/the-serif/",
+          "ariaLabel": "",
+          "textEnglish": "The Serif"
+        },
+        {
+          "text": "เครื่องเสียง",
+          "href": "https://www.samsung.com/th/audio-devices/all-audio-devices/",
+          "ariaLabel": "",
+          "textEnglish": "Audio equipment"
+        },
+        {
+          "text": "WiFi Speakers",
+          "href": "https://www.samsung.com/th/audio-devices/wireless-speaker/",
+          "ariaLabel": "",
+          "textEnglish": "WiFi Speakers"
+        },
+        {
+          "text": "อุปกรณ์เสริมทีวี เครื่องเสียง",
+          "href": "https://www.samsung.com/th/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories, Audio Equipment"
+        },
+        {
+          "text": "จำหน่ายเฉพาะที่ samsung.com",
+          "href": "https://www.samsung.com/th/tvs/all-tvs/?only-samsung",
+          "ariaLabel": "",
+          "textEnglish": "Available exclusively at samsung.com"
+        },
+        {
+          "text": "Samsung Vision AI",
+          "href": "https://www.samsung.com/th/tvs/vision-ai-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Vision AI"
+        },
+        {
+          "text": "ทำไมต้องซื้อโทรทัศน์ Samsung",
+          "href": "https://www.samsung.com/th/tvs/why-samsung-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Why Buy a Samsung TV?"
+        },
+        {
+          "text": "ทำไมต้อง OLED",
+          "href": "https://www.samsung.com/th/tvs/oled-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why OLED?"
+        },
+        {
+          "text": "ทำไมต้อง Neo QLED",
+          "href": "https://www.samsung.com/th/tvs/qled-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why Neo QLED?"
+        },
+        {
+          "text": "ทำไมต้อง The Frame",
+          "href": "https://www.samsung.com/th/lifestyle-tvs/the-frame/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why The Frame?"
+        },
+        {
+          "text": "วิธีการเลือกซื้อทีวี",
+          "href": "https://www.samsung.com/th/tvs/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "How to Choose a TV"
+        },
+        {
+          "text": "วิธีการเลือกซื้อเครื่องเสียง",
+          "href": "https://www.samsung.com/th/audio-devices/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "How to Choose and Buy Audio Equipment"
+        },
+        {
+          "text": "MICRO LED",
+          "href": "https://www.samsung.com/th/micro-led/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "MICRO LED"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_03_menu_3.jpg",
+      "menuEnglish": "TVs, Audio Systems"
+    },
+    {
+      "menu": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+      "menuHref": "https://www.samsung.com/th/refrigerators/all-refrigerators/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "แพ็กเกจเครื่องใช้ไฟฟ้า",
+          "href": "https://www.samsung.com/th/appliance-packages/all-appliance-packages/",
+          "ariaLabel": "",
+          "textEnglish": "Home Appliance Packages"
+        },
+        {
+          "text": "ตู้เย็น",
+          "href": "https://www.samsung.com/th/refrigerators/all-refrigerators/",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerator"
+        },
+        {
+          "text": "ไมโครเวฟ",
+          "href": "https://www.samsung.com/th/microwave-ovens/all-microwave-ovens/",
+          "ariaLabel": "",
+          "textEnglish": "Microwave"
+        },
+        {
+          "text": "เครื่องซักผ้า",
+          "href": "https://www.samsung.com/th/washers-and-dryers/all-washers-and-dryers/",
+          "ariaLabel": "",
+          "textEnglish": "Washing machine"
+        },
+        {
+          "text": "เครื่องปรับอากาศ",
+          "href": "https://www.samsung.com/th/air-conditioners/all-air-conditioners/",
+          "ariaLabel": "",
+          "textEnglish": "Air Conditioner"
+        },
+        {
+          "text": "เครื่องฟอกอากาศ",
+          "href": "https://www.samsung.com/th/air-care/all-air-care/",
+          "ariaLabel": "",
+          "textEnglish": "Air purifier"
+        },
+        {
+          "text": "เครื่องดูดฝุ่น",
+          "href": "https://www.samsung.com/th/vacuum-cleaners/all-vacuum-cleaners/",
+          "ariaLabel": "",
+          "textEnglish": "Vacuum Cleaner"
+        },
+        {
+          "text": "หุ่นยนต์ดูดฝุ่น",
+          "href": "https://www.samsung.com/th/vacuum-cleaners/robot/",
+          "ariaLabel": "",
+          "textEnglish": "Robot vacuum cleaner"
+        },
+        {
+          "text": "อุปกรณ์เสริมเครื่องใช้ไฟฟ้า",
+          "href": "https://www.samsung.com/th/home-appliance-accessories/all-home-appliance-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Home Appliance Accessories"
+        },
+        {
+          "text": "Bespoke AI",
+          "href": "https://www.samsung.com/th/home-appliances/bespoke-home/",
+          "ariaLabel": "",
+          "textEnglish": "Bespoke AI"
+        },
+        {
+          "text": "AI Energy Saving",
+          "href": "https://www.samsung.com/th/home-appliances/sustainable-home/",
+          "ariaLabel": "",
+          "textEnglish": "AI Energy Saving"
+        },
+        {
+          "text": "ทำไมต้องซื้อเครื่องใช้ไฟฟ้าของ Samsung",
+          "href": "https://www.samsung.com/th/home-appliances/buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose Samsung Home Appliances"
+        },
+        {
+          "text": "วิธีการเลือกซื้อตู้เย็น",
+          "href": "https://www.samsung.com/th/home-appliances/buying-guide/what-size-fridge-freezer-do-i-need/",
+          "ariaLabel": "",
+          "textEnglish": "How to Choose a Refrigerator"
+        },
+        {
+          "text": "วิธีการเลือกซื้อเครื่องปรับอากาศ",
+          "href": "https://www.samsung.com/th/air-conditioners/buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "How to Choose an Air Conditioner"
+        },
+        {
+          "text": "วิธีการเลือกซื้อเครื่องซักผ้า",
+          "href": "https://www.samsung.com/th/home-appliances/buying-guide/what-size-washing-machine-do-i-need/",
+          "ariaLabel": "",
+          "textEnglish": "How to Choose a Washing Machine"
+        },
+        {
+          "text": "Samsung Care Plus Premium",
+          "href": "https://www.samsung.com/th/offer/samsung-care-plus/appliances/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care Plus Premium"
+        },
+        {
+          "text": "คำถามที่พบบ่อย",
+          "href": "https://www.samsung.com/th/home-appliances/faq/",
+          "ariaLabel": "",
+          "textEnglish": "Frequently Asked Questions"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_04_menu_4.jpg",
+      "menuEnglish": "Home Appliances"
+    },
+    {
+      "menu": "มอนิเตอร์ ไอที",
+      "menuHref": "https://www.samsung.com/th/monitors/all-monitors/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "มอนิเตอร์",
+          "href": "https://www.samsung.com/th/monitors/all-monitors/",
+          "ariaLabel": "",
+          "textEnglish": "Monitors"
+        },
+        {
+          "text": "หน่วยความจำ",
+          "href": "https://www.samsung.com/th/memory-storage/all-memory-storage/",
+          "ariaLabel": "",
+          "textEnglish": "Memory"
+        },
+        {
+          "text": "ทำไมต้อง Odyssey Gaming Monitor",
+          "href": "https://www.samsung.com/th/monitors/odyssey-gaming-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose the Odyssey Gaming Monitor?"
+        },
+        {
+          "text": "ทำไมต้อง ViewFinity ความละเอียดสูง",
+          "href": "https://www.samsung.com/th/monitors/high-resolution-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why ViewFinity High Resolution?"
+        },
+        {
+          "text": "ทำไมต้อง Smart Monitor",
+          "href": "https://www.samsung.com/th/monitors/smart-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose Smart Monitor?"
+        },
+        {
+          "text": "ทำไมต้องซื้อจอมอนิเตอร์ของซัมซุง",
+          "href": "https://www.samsung.com/th/monitors/monitor-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose a Samsung Monitor?"
+        },
+        {
+          "text": "วิธีการเลือกซื้อจอมอนิเตอร์",
+          "href": "https://www.samsung.com/th/monitors/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "How to Choose a Monitor"
+        },
+        {
+          "text": "Memory & Storage",
+          "href": "https://www.samsung.com/th/memory-storage/",
+          "ariaLabel": "",
+          "textEnglish": "Memory & Storage"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_05_menu_5.jpg",
+      "menuEnglish": "IT Monitors"
+    },
+    {
+      "menu": "อุปกรณ์สวมใส่",
+      "menuHref": "https://www.samsung.com/th/watches/all-watches/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Watch ใหม่",
+          "href": "https://www.samsung.com/th/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Watch"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/th/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/th/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "อุปกรณ์เสริมสำหรับอุปกรณ์สวมใส่ ใหม่",
+          "href": "https://www.samsung.com/th/mobile-accessories/all-mobile-accessories/?watches+buds",
+          "ariaLabel": "",
+          "textEnglish": "New accessories for wearable devices"
+        },
+        {
+          "text": "สิ่งที่ต้องรู้เกี่ยวกับ Galaxy",
+          "href": "https://www.samsung.com/th/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "What You Need to Know About the Galaxy"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/th/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/th/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "ค้นหา Galaxy ของคุณ",
+          "href": "https://www.samsung.com/th/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find your Galaxy"
+        },
+        {
+          "text": "Switch to Galaxy",
+          "href": "https://www.samsung.com/th/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/th/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "Apps & Services",
+          "href": "https://www.samsung.com/th/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps & Services"
+        },
+        {
+          "text": "เก่าแลกใหม่ สมาร์ทโฟน",
+          "href": "https://www.samsung.com/th/tradeinpromotion/",
+          "ariaLabel": "",
+          "textEnglish": "Trade-in for a new smartphone"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/th/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_06_menu_6.jpg",
+      "menuEnglish": "Wearable devices"
+    },
+    {
+      "menu": "อุปกรณ์เสริม",
+      "menuHref": "https://www.samsung.com/th/accessories/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "อุปกรณ์เสริม Galaxy สมาร์ทโฟน ใหม่",
+          "href": "https://www.samsung.com/th/mobile-accessories/all-mobile-accessories/?smartphones",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Smartphone Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริม Galaxy Tab",
+          "href": "https://www.samsung.com/th/mobile-accessories/all-mobile-accessories/?tablets",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริม Galaxy Watch ใหม่",
+          "href": "https://www.samsung.com/th/mobile-accessories/all-mobile-accessories/?watches",
+          "ariaLabel": "",
+          "textEnglish": "New Galaxy Watch Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริม Galaxy Buds",
+          "href": "https://www.samsung.com/th/mobile-accessories/all-mobile-accessories/?buds",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริมทีวี",
+          "href": "https://www.samsung.com/th/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริมตู้เย็น",
+          "href": "https://www.samsung.com/th/home-appliance-accessories/all-home-appliance-accessories/?refrigerators-accessories",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerator Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริมเครื่องดูดฝุ่น",
+          "href": "https://www.samsung.com/th/home-appliance-accessories/all-home-appliance-accessories/?vacuum-cleaners-accessories",
+          "ariaLabel": "",
+          "textEnglish": "Vacuum Cleaner Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริมเครื่องซักผ้า",
+          "href": "https://www.samsung.com/th/home-appliance-accessories/all-home-appliance-accessories/?laundry-accessories",
+          "ariaLabel": "",
+          "textEnglish": "Washing Machine Accessories"
+        },
+        {
+          "text": "อุปกรณ์เสริมเครื่องกรองอากาศ",
+          "href": "https://www.samsung.com/th/home-appliance-accessories/all-home-appliance-accessories/?air-purifier-accessories",
+          "ariaLabel": "",
+          "textEnglish": "Air purifier accessories"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_07_menu_7.jpg",
+      "menuEnglish": "Accessories"
+    },
+    {
+      "menu": "บริการ",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "หน้าหลัก บริการช่วยเหลือเกี่ยวกับสินค้า",
+          "href": "https://www.samsung.com/th/support/",
+          "ariaLabel": "",
+          "textEnglish": "Home Product Support"
+        },
+        {
+          "text": "คู่มือการใช้งานผลิตภัณฑ์",
+          "href": "https://www.samsung.com/th/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Product User Guide"
+        },
+        {
+          "text": "คู่มือเริ่มใช้งาน",
+          "href": "https://www.samsung.com/th/welcome-to-samsung/",
+          "ariaLabel": "",
+          "textEnglish": "Getting Started Guide"
+        },
+        {
+          "text": "ความช่วยเหลือเกี่ยวกับสินค้าและคำสั่งซื้อ",
+          "href": "https://www.samsung.com/th/shop-faq/",
+          "ariaLabel": "",
+          "textEnglish": "Help with Products and Orders"
+        },
+        {
+          "text": "ข่าวสาร",
+          "href": "https://www.samsung.com/th/support/newsalert/",
+          "ariaLabel": "",
+          "textEnglish": "News"
+        },
+        {
+          "text": "คอมมูนิตี้",
+          "href": "https://r1.community.samsung.com/t5/thailand/ct-p/th?profile.language=th",
+          "ariaLabel": "คอมมูนิตี้. เปิดในหน้าต่างใหม่",
+          "textEnglish": "Community"
+        },
+        {
+          "text": "หน้าหลัก บริการช่วยเหลือเกี่ยวกับการซ่อม",
+          "href": "https://www.samsung.com/th/support/repair_service/",
+          "ariaLabel": "",
+          "textEnglish": "Home Repair Support"
+        },
+        {
+          "text": "ข้อมูลการรับประกัน",
+          "href": "https://www.samsung.com/th/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Warranty Information"
+        },
+        {
+          "text": "จองคิวซ่อมออนไลน์",
+          "href": "https://www.samsung.com/th/mypage/myproducts/",
+          "ariaLabel": "",
+          "textEnglish": "Schedule a repair appointment online"
+        },
+        {
+          "text": "เช็คค่าซ่อม",
+          "href": "https://www.samsung.com/th/support/repair-cost/",
+          "ariaLabel": "",
+          "textEnglish": "Check repair costs"
+        },
+        {
+          "text": "ค้นหาศูนย์บริการ",
+          "href": "https://www.samsung.com/th/support/service-center/",
+          "ariaLabel": "",
+          "textEnglish": "Find a Service Center"
+        },
+        {
+          "text": "ติดตามงานซ่อม",
+          "href": "https://www.samsung.com/th/mypage/myrepair/",
+          "ariaLabel": "",
+          "textEnglish": "Track repair status"
+        },
+        {
+          "text": "แชท",
+          "href": "https://samsung-livechat.sprinklr.com/seao/th/index.html",
+          "ariaLabel": "แชท. เปิดในหน้าต่างใหม่",
+          "textEnglish": "Chat"
+        },
+        {
+          "text": "LINE",
+          "href": "https://lin.ee/QT7jyt1",
+          "ariaLabel": "LINE. เปิดในหน้าต่างใหม่",
+          "textEnglish": "LINE"
+        },
+        {
+          "text": "โทร",
+          "href": "https://www.samsung.com/th/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Call"
+        },
+        {
+          "text": "การให้บริการลูกค้าผู้บกพร่องทางการได้ยิน",
+          "href": "https://www.samsung.com/th/support/mobile-devices/service-channels-for-hearing-impaired-customers/",
+          "ariaLabel": "",
+          "textEnglish": "Serving customers with hearing impairments"
+        },
+        {
+          "text": "การรับประกัน",
+          "href": "https://www.samsung.com/th/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Warranty"
+        },
+        {
+          "text": "ดาวน์โหลดคู่มือ",
+          "href": "https://www.samsung.com/th/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Download the guide"
+        },
+        {
+          "text": "ติดต่อเรา",
+          "href": "https://www.samsung.com/th/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Contact Us"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_08_menu_8.jpg",
+      "menuEnglish": "Services"
+    },
+    {
+      "menu": "เพื่อธุรกิจ",
+      "menuHref": "https://www.samsung.com/th/business/",
+      "menuAriaLabel": "เพื่อธุรกิจ. เปิดในหน้าต่างใหม่",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_09_menu_9.jpg",
+      "menuEnglish": "For business"
+    },
+    {
+      "menu": "ค้นหา ค้นหา",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_10_menu_10.jpg",
+      "menuEnglish": "Search Search"
+    },
+    {
+      "menu": "รถเข็น",
+      "menuHref": "https://shop.samsung.com/th/cart",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_11_menu_11.jpg",
+      "menuEnglish": "Wheelchair"
+    },
+    {
+      "menu": "เข้าสู่ระบบ/สมัครสมาชิก",
+      "menuHref": "",
+      "menuAriaLabel": "Manage Account",
+      "hoverItems": [
+        {
+          "text": "เข้าสู่ระบบ/สมัครสมาชิก",
+          "href": "",
+          "ariaLabel": "",
+          "textEnglish": "Log In / Sign Up"
+        },
+        {
+          "text": "รับสิทธิประโยชน์สุดพิเศษด้วย Samsung Account",
+          "href": "https://www.samsung.com/th/why-samsung-account/",
+          "ariaLabel": "",
+          "textEnglish": "Enjoy exclusive benefits with a Samsung Account"
+        },
+        {
+          "text": "คำสั่งซื้อ",
+          "href": "https://shop.samsung.com/th/my-account/orders",
+          "ariaLabel": "orders",
+          "textEnglish": "Order"
+        },
+        {
+          "text": "การลงทะเบียนผลิตภัณฑ์",
+          "href": "https://www.samsung.com/th/mypage/myproducts/",
+          "ariaLabel": "product registration",
+          "textEnglish": "Product Registration"
+        },
+        {
+          "text": "ซัมซุงรีวอร์ด",
+          "href": "https://www.samsung.com/th/rewards/",
+          "ariaLabel": "samsung rewards",
+          "textEnglish": "Samsung Rewards"
+        },
+        {
+          "text": "Members",
+          "href": "https://www.samsung.com/th/members/",
+          "ariaLabel": "members",
+          "textEnglish": "Members"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_th_12_menu_12.jpg",
+      "menuEnglish": "Log In / Sign Up"
+    }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "url": "https://www.samsung.com/uk",
+  "capturedAt": "2026-08-14T14:30:53+09:00",
+  "detection": "structure-and-hover-diff",
+  "root": {
+    "selector": "nav",
+    "role": "navigation",
+    "id": "component-id",
+    "className": "nv00-gnb-v4 nv00-gnb-v4--text-type nv00-gnb-v4--shy-light",
+    "score": 109.3,
+    "interactiveCount": 219
+  },
+  "menus": [
+    {
+      "menu": "Samsung",
+      "menuHref": "https://www.samsung.com/uk/",
+      "menuAriaLabel": "Samsung",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_00_Samsung.jpg",
+      "menuEnglish": "Samsung"
+    },
+    {
+      "menu": "Shop",
+      "menuHref": "https://www.samsung.com/uk/offer/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy S26 Ultra",
+          "href": "https://www.samsung.com/uk/smartphones/galaxy-s26-ultra/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy S26 Ultra"
+        },
+        {
+          "text": "Galaxy Z Fold8 NEW",
+          "href": "https://www.samsung.com/uk/smartphones/galaxy-z-fold8/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Z Fold8 NEW"
+        },
+        {
+          "text": "Galaxy Z Fold8 Ultra NEW",
+          "href": "https://www.samsung.com/uk/smartphones/galaxy-z-fold8-ultra/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Z Fold8 Ultra NEW"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "https://www.samsung.com/uk/tablets/galaxy-tab-s11/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab S11 Series"
+        },
+        {
+          "text": "Galaxy Watch Ultra2 NEW",
+          "href": "https://www.samsung.com/uk/watches/galaxy-watch-ultra2/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch Ultra2 NEW"
+        },
+        {
+          "text": "Galaxy Buds4 Pro",
+          "href": "https://www.samsung.com/uk/audio-sound/galaxy-buds4-pro/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds4 Pro"
+        },
+        {
+          "text": "Micro RGB NEW",
+          "href": "https://www.samsung.com/uk/tvs/micro-rgb/r95h-75-inch-4k-smart-tv-mre75r95hatxxu/",
+          "ariaLabel": "",
+          "textEnglish": "Micro RGB NEW"
+        },
+        {
+          "text": "OLED 4K TV NEW",
+          "href": "https://www.samsung.com/uk/tvs/oled-tv/s95h-77-inch-4k-smart-tv-qe77s99hatxxu/",
+          "ariaLabel": "",
+          "textEnglish": "OLED 4K TV NEW"
+        },
+        {
+          "text": "The Frame Pro NEW",
+          "href": "https://www.samsung.com/uk/lifestyle-tvs/the-frame/ls03hw-85-inch-the-frame-pro-qe85ls03hwuxxu/",
+          "ariaLabel": "",
+          "textEnglish": "The Frame Pro NEW"
+        },
+        {
+          "text": "Odyssey OLED G8",
+          "href": "https://www.samsung.com/uk/monitors/gaming/odyssey-oled-g8-g81sf-32-inch-240hz-oled-uhd-ls32fg810suxxu/",
+          "ariaLabel": "",
+          "textEnglish": "Odyssey OLED G8"
+        },
+        {
+          "text": "Bespoke AI Refrigerator",
+          "href": "https://www.samsung.com/uk/refrigerators/bottom-mount-freezer/bottom-mount-freezer-with-smartthings-ai-energy-mo-387l-silver-rl38c776asr-eu/",
+          "ariaLabel": "",
+          "textEnglish": "Bespoke AI Refrigerator"
+        },
+        {
+          "text": "Bespoke AI Washer",
+          "href": "https://www.samsung.com/uk/washers-and-dryers/washing-machines/ww8400d-front-loading-smartthings-ai-energy-made-a-40-percent-extra-energy-efficiency-ai-ecobubble-11kg-black-ww11db8b95gbu1/",
+          "ariaLabel": "",
+          "textEnglish": "Bespoke AI Washer"
+        },
+        {
+          "text": "Bespoke AI Jet Ultra",
+          "href": "https://www.samsung.com/uk/vacuum-cleaners/stick/vc9700cl-stick-vc-with-most-powerful-jet-aiultra-400w-black-vs90f40dek-eu/",
+          "ariaLabel": "",
+          "textEnglish": "Bespoke AI Jet Ultra"
+        },
+        {
+          "text": "Oven Dual Cook Flex",
+          "href": "https://www.samsung.com/uk/cooking-appliances/ovens/nv7000b-5series-dual-cook-flex-simple-steam-5series-dual-cook-flex-nv7b5750tak-u4/",
+          "ariaLabel": "",
+          "textEnglish": "Oven Dual Cook Flex"
+        },
+        {
+          "text": "Buy Direct Get More",
+          "href": "https://www.samsung.com/uk/buy-direct-get-more/",
+          "ariaLabel": "",
+          "textEnglish": "Buy Direct Get More"
+        },
+        {
+          "text": "AI Living",
+          "href": "https://www.samsung.com/uk/ai-living/",
+          "ariaLabel": "",
+          "textEnglish": "AI Living"
+        },
+        {
+          "text": "Mobile Shop Picks",
+          "href": "https://www.samsung.com/uk/shop/mobile/home/",
+          "ariaLabel": "",
+          "textEnglish": "Mobile Shop Picks"
+        },
+        {
+          "text": "TV Shop Picks",
+          "href": "https://www.samsung.com/uk/offer/tvs/",
+          "ariaLabel": "",
+          "textEnglish": "TV Shop Picks"
+        },
+        {
+          "text": "Home Appliances Shop Picks",
+          "href": "https://www.samsung.com/uk/offer/homeappliance/",
+          "ariaLabel": "",
+          "textEnglish": "Home Appliances Shop Picks"
+        },
+        {
+          "text": "Monitors Shop Picks",
+          "href": "https://www.samsung.com/uk/offer/monitors/",
+          "ariaLabel": "",
+          "textEnglish": "Monitors Shop Picks"
+        },
+        {
+          "text": "Back-to-School",
+          "href": "https://www.samsung.com/uk/offer/back-to-school/",
+          "ariaLabel": "",
+          "textEnglish": "Back-to-School"
+        },
+        {
+          "text": "Key Worker & Teacher Benefits",
+          "href": "https://www.samsung.com/uk/key-worker-offers/",
+          "ariaLabel": "",
+          "textEnglish": "Key Worker & Teacher Benefits"
+        },
+        {
+          "text": "Samsung Experience Stores",
+          "href": "https://www.samsung.com/uk/samsung-experience-store/about/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Experience Stores"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_01_Shop.jpg",
+      "menuEnglish": "Shop"
+    },
+    {
+      "menu": "Mobile",
+      "menuHref": "https://www.samsung.com/uk/smartphones/all-smartphones/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Smartphone NEW",
+          "href": "https://www.samsung.com/uk/smartphones/all-smartphones/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Smartphone NEW"
+        },
+        {
+          "text": "Galaxy Tab",
+          "href": "https://www.samsung.com/uk/tablets/all-tablets/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab"
+        },
+        {
+          "text": "Galaxy Book",
+          "href": "https://www.samsung.com/uk/computers/all-computers/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book"
+        },
+        {
+          "text": "Galaxy Watch NEW",
+          "href": "https://www.samsung.com/uk/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch NEW"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/uk/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/uk/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "Galaxy XR NEW",
+          "href": "https://www.samsung.com/uk/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy XR NEW"
+        },
+        {
+          "text": "Galaxy Accessories NEW",
+          "href": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Accessories NEW"
+        },
+        {
+          "text": "Certified Re-Newed",
+          "href": "https://www.samsung.com/uk/certified-re-newed/",
+          "ariaLabel": "",
+          "textEnglish": "Certified Re-Newed"
+        },
+        {
+          "text": "All about Galaxy",
+          "href": "https://www.samsung.com/uk/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "All about Galaxy"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/uk/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "Find your Galaxy",
+          "href": "https://www.samsung.com/uk/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find your Galaxy"
+        },
+        {
+          "text": "Switch to Galaxy",
+          "href": "https://www.samsung.com/uk/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/uk/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/uk/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "Apps & Services",
+          "href": "https://www.samsung.com/uk/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps & Services"
+        },
+        {
+          "text": "Mobile Trade In",
+          "href": "https://www.samsung.com/uk/trade-in/",
+          "ariaLabel": "",
+          "textEnglish": "Mobile Trade In"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/uk/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_02_Mobile.jpg",
+      "menuEnglish": "Mobile"
+    },
+    {
+      "menu": "TV & AV",
+      "menuHref": "https://www.samsung.com/uk/tvs/all-tvs/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Micro RGB",
+          "href": "https://www.samsung.com/uk/tvs/micro-rgb-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Micro RGB"
+        },
+        {
+          "text": "OLED",
+          "href": "https://www.samsung.com/uk/tvs/oled-tvs/",
+          "ariaLabel": "",
+          "textEnglish": "OLED"
+        },
+        {
+          "text": "Neo QLED",
+          "href": "https://www.samsung.com/uk/tvs/neo-qled-tvs/",
+          "ariaLabel": "",
+          "textEnglish": "Neo QLED"
+        },
+        {
+          "text": "Mini LED",
+          "href": "https://www.samsung.com/uk/tvs/mini-led-tvs/",
+          "ariaLabel": "",
+          "textEnglish": "Mini LED"
+        },
+        {
+          "text": "Crystal UHD",
+          "href": "https://www.samsung.com/uk/tvs/all-tvs/?crystal-uhd",
+          "ariaLabel": "",
+          "textEnglish": "Crystal UHD"
+        },
+        {
+          "text": "The Frame",
+          "href": "https://www.samsung.com/uk/lifestyle-tvs/the-frame/",
+          "ariaLabel": "",
+          "textEnglish": "The Frame"
+        },
+        {
+          "text": "The Movingstyle",
+          "href": "https://www.samsung.com/uk/movable-screens/the-movingstyle/lsm7f-qhd-portable-touch-screen-smart-tv-27-inch-ue27lsm7faxxxu/",
+          "ariaLabel": "",
+          "textEnglish": "The Movingstyle"
+        },
+        {
+          "text": "The Serif",
+          "href": "https://www.samsung.com/uk/lifestyle-tvs/the-serif/",
+          "ariaLabel": "",
+          "textEnglish": "The Serif"
+        },
+        {
+          "text": "The Terrace",
+          "href": "https://www.samsung.com/uk/lifestyle-tvs/the-terrace/",
+          "ariaLabel": "",
+          "textEnglish": "The Terrace"
+        },
+        {
+          "text": "Sound Devices",
+          "href": "https://www.samsung.com/uk/audio-devices/all-audio-devices/",
+          "ariaLabel": "",
+          "textEnglish": "Sound Devices"
+        },
+        {
+          "text": "WiFi Speakers",
+          "href": "https://www.samsung.com/uk/audio-devices/wireless-speaker/",
+          "ariaLabel": "",
+          "textEnglish": "WiFi Speakers"
+        },
+        {
+          "text": "Projectors",
+          "href": "https://www.samsung.com/uk/projectors/all-projectors/",
+          "ariaLabel": "",
+          "textEnglish": "Projectors"
+        },
+        {
+          "text": "TV Accessories",
+          "href": "https://www.samsung.com/uk/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories"
+        },
+        {
+          "text": "Audio Accessories",
+          "href": "https://www.samsung.com/uk/audio-accessories/all-audio-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Audio Accessories"
+        },
+        {
+          "text": "Samsung Vision AI",
+          "href": "https://www.samsung.com/uk/tvs/vision-ai-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Vision AI"
+        },
+        {
+          "text": "Why Micro RGB",
+          "href": "https://www.samsung.com/uk/tvs/micro-rgb-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why Micro RGB"
+        },
+        {
+          "text": "Why OLED",
+          "href": "https://www.samsung.com/uk/tvs/oled-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why OLED"
+        },
+        {
+          "text": "Why The Frame",
+          "href": "https://www.samsung.com/uk/lifestyle-tvs/the-frame/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why The Frame"
+        },
+        {
+          "text": "Samsung TV Plus",
+          "href": "https://www.samsung.com/uk/tvs/smart-tv/samsung-tv-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung TV Plus"
+        },
+        {
+          "text": "Best Art TV",
+          "href": "https://www.samsung.com/uk/tvs/art-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Best Art TV"
+        },
+        {
+          "text": "TV Buying Guides",
+          "href": "https://www.samsung.com/uk/tvs/tv-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "TV Buying Guides"
+        },
+        {
+          "text": "Help choose my TV",
+          "href": "https://www.samsung.com/uk/tvs/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "Help choose my TV"
+        },
+        {
+          "text": "Help choose my Sound Device",
+          "href": "https://www.samsung.com/uk/audio-devices/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "Help choose my Sound Device"
+        },
+        {
+          "text": "MICRO LED",
+          "href": "https://www.samsung.com/uk/micro-led/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "MICRO LED"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_03_TV_AV.jpg",
+      "menuEnglish": "TV & AV"
+    },
+    {
+      "menu": "Appliances",
+      "menuHref": "https://www.samsung.com/uk/refrigerators/all-refrigerators/",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_04_Appliances.jpg",
+      "menuEnglish": "Appliances"
+    },
+    {
+      "menu": "Computers & Monitors",
+      "menuHref": "https://www.samsung.com/uk/computers/all-computers/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Book & Laptop",
+          "href": "https://www.samsung.com/uk/computers/all-computers/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book & Laptop"
+        },
+        {
+          "text": "Monitors",
+          "href": "https://www.samsung.com/uk/monitors/all-monitors/",
+          "ariaLabel": "",
+          "textEnglish": "Monitors"
+        },
+        {
+          "text": "Memory & Storage",
+          "href": "https://www.samsung.com/uk/memory-storage/all-memory-storage/",
+          "ariaLabel": "",
+          "textEnglish": "Memory & Storage"
+        },
+        {
+          "text": "Computer Accessories",
+          "href": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Computer Accessories"
+        },
+        {
+          "text": "Copilot+ PCs",
+          "href": "https://www.samsung.com/uk/computers/galaxy-book-copilot-plus-pcs/",
+          "ariaLabel": "",
+          "textEnglish": "Copilot+ PCs"
+        },
+        {
+          "text": "Why Odyssey Gaming Monitor",
+          "href": "https://www.samsung.com/uk/monitors/odyssey-gaming-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Odyssey Gaming Monitor"
+        },
+        {
+          "text": "Why ViewFinity High Resolution",
+          "href": "https://www.samsung.com/uk/monitors/viewfinity-high-resolution-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why ViewFinity High Resolution"
+        },
+        {
+          "text": "Why Smart Monitor",
+          "href": "https://www.samsung.com/uk/monitors/smart-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Smart Monitor"
+        },
+        {
+          "text": "Monitor Buying Guide",
+          "href": "https://www.samsung.com/uk/monitors/monitor-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Monitor Buying Guide"
+        },
+        {
+          "text": "Laptop Buying Guide",
+          "href": "https://www.samsung.com/uk/laptop-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Laptop Buying Guide"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_05_Computers_Monitors.jpg",
+      "menuEnglish": "Computers & Monitors"
+    },
+    {
+      "menu": "Wearables",
+      "menuHref": "https://www.samsung.com/uk/watches/all-watches/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Watch NEW",
+          "href": "https://www.samsung.com/uk/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch NEW"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/uk/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/uk/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "Galaxy XR",
+          "href": "https://www.samsung.com/uk/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy XR"
+        },
+        {
+          "text": "Wearables Accessories NEW",
+          "href": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?wearables+audio+smarttag",
+          "ariaLabel": "",
+          "textEnglish": "Wearables Accessories NEW"
+        },
+        {
+          "text": "All about Galaxy",
+          "href": "https://www.samsung.com/uk/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "All about Galaxy"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/uk/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/uk/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "Find your Galaxy",
+          "href": "https://www.samsung.com/uk/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find your Galaxy"
+        },
+        {
+          "text": "Switch to Galaxy",
+          "href": "https://www.samsung.com/uk/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/uk/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "Apps & Services",
+          "href": "https://www.samsung.com/uk/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps & Services"
+        },
+        {
+          "text": "Samsung Trade In",
+          "href": "https://www.samsung.com/uk/instant-trade-in/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Trade In"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/uk/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_06_Wearables.jpg",
+      "menuEnglish": "Wearables"
+    },
+    {
+      "menu": "Accessories",
+      "menuHref": "https://www.samsung.com/uk/accessories/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Smartphone Accessories NEW",
+          "href": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?smartphones",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Smartphone Accessories NEW"
+        },
+        {
+          "text": "Galaxy Tab Accessories",
+          "href": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?tablets",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab Accessories"
+        },
+        {
+          "text": "Galaxy Watch Accessories NEW",
+          "href": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?wearables",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch Accessories NEW"
+        },
+        {
+          "text": "Galaxy Buds Accessories",
+          "href": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?audio+phone-covers",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds Accessories"
+        },
+        {
+          "text": "Galaxy Book Accessories",
+          "href": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book Accessories"
+        },
+        {
+          "text": "SmartTag",
+          "href": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?smarttag",
+          "ariaLabel": "",
+          "textEnglish": "SmartTag"
+        },
+        {
+          "text": "TV Accessories",
+          "href": "https://www.samsung.com/uk/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories"
+        },
+        {
+          "text": "Audio Accessories",
+          "href": "https://www.samsung.com/uk/audio-accessories/all-audio-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Audio Accessories"
+        },
+        {
+          "text": "Projector Accessories",
+          "href": "https://www.samsung.com/uk/projector-accessories/all-projector-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Projector Accessories"
+        },
+        {
+          "text": "Refrigerator Accessories",
+          "href": "https://www.samsung.com/uk/refrigerators/all-refrigerators/?accessories",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerator Accessories"
+        },
+        {
+          "text": "Vacuum Cleaner Accessories",
+          "href": "https://www.samsung.com/uk/home-appliance-accessories/all-home-appliance-accessories/vacuum-cleaners/",
+          "ariaLabel": "",
+          "textEnglish": "Vacuum Cleaner Accessories"
+        },
+        {
+          "text": "Washer & Dryer Accessories",
+          "href": "https://www.samsung.com/uk/home-appliance-accessories/all-home-appliance-accessories/?washers-and-dryers",
+          "ariaLabel": "",
+          "textEnglish": "Washer & Dryer Accessories"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_07_Accessories.jpg",
+      "menuEnglish": "Accessories"
+    },
+    {
+      "menu": "Back-to-School",
+      "menuHref": "https://www.samsung.com/uk/offer/back-to-school/",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_08_Back-to-School.jpg",
+      "menuEnglish": "Back-to-School"
+    },
+    {
+      "menu": "Support",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Support Home",
+          "href": "https://www.samsung.com/uk/support/",
+          "ariaLabel": "",
+          "textEnglish": "Support Home"
+        },
+        {
+          "text": "Find Your User Manual",
+          "href": "https://www.samsung.com/uk/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Find Your User Manual"
+        },
+        {
+          "text": "Product Help Guides",
+          "href": "https://www.samsung.com/uk/support/product-help/",
+          "ariaLabel": "",
+          "textEnglish": "Product Help Guides"
+        },
+        {
+          "text": "Shop FAQs",
+          "href": "https://www.samsung.com/uk/shop-faq/",
+          "ariaLabel": "",
+          "textEnglish": "Shop FAQs"
+        },
+        {
+          "text": "Live Chat",
+          "href": "https://www.samsung.com/uk/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Live Chat"
+        },
+        {
+          "text": "Call Us",
+          "href": "https://www.samsung.com/uk/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Call Us"
+        },
+        {
+          "text": "Sign Language Support",
+          "href": "https://www.samsung.com/uk/support/contact/accessibility/",
+          "ariaLabel": "",
+          "textEnglish": "Sign Language Support"
+        },
+        {
+          "text": "Troubleshoot & Book a Repair",
+          "href": "https://www.samsung.com/uk/support/repair/",
+          "ariaLabel": "",
+          "textEnglish": "Troubleshoot & Book a Repair"
+        },
+        {
+          "text": "Track My Repair",
+          "href": "https://www.samsung.com/uk/support/repair/track-my-repair/",
+          "ariaLabel": "",
+          "textEnglish": "Track My Repair"
+        },
+        {
+          "text": "Warranty Information",
+          "href": "https://www.samsung.com/uk/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Warranty Information"
+        },
+        {
+          "text": "Repair Costs & Times",
+          "href": "https://www.samsung.com/uk/support/repair/why-repair-with-us/",
+          "ariaLabel": "",
+          "textEnglish": "Repair Costs & Times"
+        },
+        {
+          "text": "Smartphone Screen Repair",
+          "href": "https://www.samsung.com/uk/support/mobile-devices/how-much-will-it-cost-to-repair-my-phone-screen/",
+          "ariaLabel": "",
+          "textEnglish": "Smartphone Screen Repair"
+        },
+        {
+          "text": "Regulatory Information",
+          "href": "https://www.samsung.com/uk/support/regulatory-information/",
+          "ariaLabel": "",
+          "textEnglish": "Regulatory Information"
+        },
+        {
+          "text": "News & Alerts",
+          "href": "https://www.samsung.com/uk/support/newsalert/",
+          "ariaLabel": "",
+          "textEnglish": "News & Alerts"
+        },
+        {
+          "text": "Community",
+          "href": "https://eu.community.samsung.com/?category.id=uk&page=1&tab=setting:samsung.fe%20atured_topics",
+          "ariaLabel": "Community. Open in a new window",
+          "textEnglish": "Community"
+        },
+        {
+          "text": "Warranty Information",
+          "href": "https://www.samsung.com/uk/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Warranty Information"
+        },
+        {
+          "text": "User Manuals Download",
+          "href": "https://www.samsung.com/uk/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "User Manuals Download"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.samsung.com/uk/support/contact/contact-us/",
+          "ariaLabel": "",
+          "textEnglish": "Contact Us"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_09_Support.jpg",
+      "menuEnglish": "Support"
+    },
+    {
+      "menu": "For Business",
+      "menuHref": "https://www.samsung.com/uk/business/",
+      "menuAriaLabel": "For Business. Open in a new window",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_10_For_Business.jpg",
+      "menuEnglish": "For Business"
+    },
+    {
+      "menu": "Search Search",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_11_Search_Search.jpg",
+      "menuEnglish": "Search Search"
+    },
+    {
+      "menu": "Basket",
+      "menuHref": "https://shop.samsung.com/uk/cart/",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_12_Basket.jpg",
+      "menuEnglish": "Basket"
+    },
+    {
+      "menu": "Sign In/Sign-Up",
+      "menuHref": "",
+      "menuAriaLabel": "Manage Account",
+      "hoverItems": [
+        {
+          "text": "Sign In/Sign-Up",
+          "href": "",
+          "ariaLabel": "",
+          "textEnglish": "Sign In/Sign-Up"
+        },
+        {
+          "text": "Exclusive Benefits with a Samsung Account",
+          "href": "https://www.samsung.com/uk/why-samsung-account/",
+          "ariaLabel": "",
+          "textEnglish": "Exclusive Benefits with a Samsung Account"
+        },
+        {
+          "text": "Orders",
+          "href": "https://shop.samsung.com/uk/mypage/orders/",
+          "ariaLabel": "orders",
+          "textEnglish": "Orders"
+        },
+        {
+          "text": "Product Registration",
+          "href": "https://www.samsung.com/uk/mypage/myproducts/",
+          "ariaLabel": "product registration",
+          "textEnglish": "Product Registration"
+        },
+        {
+          "text": "Samsung Rewards",
+          "href": "https://www.samsung.com/uk/rewards/",
+          "ariaLabel": "samsung rewards",
+          "textEnglish": "Samsung Rewards"
+        },
+        {
+          "text": "My SmartThings",
+          "href": "https://www.samsung.com/uk/mypage/mysmartthings/",
+          "ariaLabel": "my smartthings",
+          "textEnglish": "My SmartThings"
+        },
+        {
+          "text": "Samsung Members",
+          "href": "https://www.samsung.com/uk/members/",
+          "ariaLabel": "samsung members",
+          "textEnglish": "Samsung Members"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_uk_13_Sign_In_Sign-Up.jpg",
+      "menuEnglish": "Sign In/Sign-Up"
+    }
+  ]
+}

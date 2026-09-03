@@ -1,0 +1,980 @@
+{
+  "url": "https://www.samsung.com/br",
+  "capturedAt": "2026-09-03T16:21:16+09:00",
+  "detection": "structure-and-hover-diff",
+  "root": {
+    "selector": "nav",
+    "role": "navigation",
+    "id": "component-id",
+    "className": "nv00-gnb-v4 nv00-gnb-v4--text-type nv00-gnb-v4--shy-light",
+    "score": 109.3,
+    "interactiveCount": 213
+  },
+  "menus": [
+    {
+      "menu": "Samsung",
+      "menuHref": "https://www.samsung.com/br/",
+      "menuAriaLabel": "Samsung",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_00_Samsung.jpg",
+      "menuEnglish": "Samsung"
+    },
+    {
+      "menu": "Shop",
+      "menuHref": "https://www.samsung.com/br/offer/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy S26 Ultra",
+          "href": "https://www.samsung.com/br/smartphones/galaxy-s26-ultra/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy S26 Ultra"
+        },
+        {
+          "text": "Galaxy Z Fold8 NOVO",
+          "href": "https://www.samsung.com/br/smartphones/galaxy-z-fold8/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Z Fold8 NEW"
+        },
+        {
+          "text": "Galaxy Z Fold8 Ultra NOVO",
+          "href": "https://www.samsung.com/br/smartphones/galaxy-z-fold8-ultra/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Z Fold8 Ultra NEW"
+        },
+        {
+          "text": "Galaxy Tab S11 Ultra",
+          "href": "https://www.samsung.com/br/tablets/galaxy-tab-s/galaxy-tab-s11-ultra-gray-512gb-sm-x930nzahzto/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab S11 Ultra"
+        },
+        {
+          "text": "Galaxy Watch Ultra2 NOVO",
+          "href": "https://www.samsung.com/br/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzspzto/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch Ultra2 NEW"
+        },
+        {
+          "text": "Vision AI TV",
+          "href": "https://www.samsung.com/br/tvs/qled-tv/qef1-55-inch-qled-4k-smart-tv-qn55qef1agxzd/",
+          "ariaLabel": "",
+          "textEnglish": "Vision AI TV"
+        },
+        {
+          "text": "The Frame",
+          "href": "https://www.samsung.com/br/lifestyle-tvs/the-frame/ls03he-65-inch-qn65ls03hegxzd/",
+          "ariaLabel": "",
+          "textEnglish": "The Frame"
+        },
+        {
+          "text": "Mini LED",
+          "href": "https://www.samsung.com/br/tvs/mini-led-tv/m75h-55-inch-4k-smart-tv-un55m75hagxzd/",
+          "ariaLabel": "",
+          "textEnglish": "Mini LED"
+        },
+        {
+          "text": "Soundbar",
+          "href": "https://www.samsung.com/br/audio-devices/soundbar/q-series-soundbar-subwoofer-black-hw-q600f-zd/",
+          "ariaLabel": "",
+          "textEnglish": "Soundbar"
+        },
+        {
+          "text": "Monitor",
+          "href": "https://www.samsung.com/br/monitors/high-resolution/viewfinity-s5-s50gc-34-inch-ultra-wqhd-high-resolution-ls34c500galmzd/",
+          "ariaLabel": "",
+          "textEnglish": "Monitor"
+        },
+        {
+          "text": "Geladeira 462L",
+          "href": "https://www.samsung.com/br/refrigerators/bottom-mount-freezer/rb6000d-462l-refined-inox-rb50dg6020s9az/",
+          "ariaLabel": "",
+          "textEnglish": "462L Refrigerator"
+        },
+        {
+          "text": "Lava e Seca",
+          "href": "https://www.samsung.com/br/washers-and-dryers/washer-dryer-combo/lava-e-seca-10kg-white-wd10m4453mwfaz/",
+          "ariaLabel": "",
+          "textEnglish": "Washer and Dryer"
+        },
+        {
+          "text": "Robô Aspirador",
+          "href": "https://www.samsung.com/br/vacuum-cleaners/robot/robot-vr05r5050wk/",
+          "ariaLabel": "",
+          "textEnglish": "Robot Vacuum"
+        },
+        {
+          "text": "Ar-condicionado",
+          "href": "https://www.samsung.com/br/air-conditioners/wall-mount/kit-air-conditioner-split-inverter-windfree-connect-ai-12000-btus-cold-white-220v-f-ar12dyfaawk/",
+          "ariaLabel": "",
+          "textEnglish": "Air Conditioning"
+        },
+        {
+          "text": "Compra direto, ganhe mais",
+          "href": "https://www.samsung.com/br/buy-direct-get-more/",
+          "ariaLabel": "",
+          "textEnglish": "Buy directly, earn more"
+        },
+        {
+          "text": "Destaques Samsung",
+          "href": "https://shop.samsung.com/br/desconto-samsung",
+          "ariaLabel": ". Abrir em uma nova janela",
+          "textEnglish": "Samsung Highlights"
+        },
+        {
+          "text": "Baixe o ShopApp",
+          "href": "https://www.samsung.com/br/apps/samsung-shop-app/",
+          "ariaLabel": "",
+          "textEnglish": "Download the ShopApp"
+        },
+        {
+          "text": "Programas e Benefícios",
+          "href": "https://www.samsung.com/br/campaign/programs/",
+          "ariaLabel": "",
+          "textEnglish": "Programs and Benefits"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/br/campaign/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        },
+        {
+          "text": "Galaxy Club",
+          "href": "https://www.samsung.com/br/offer/new-galaxy-club/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Club"
+        },
+        {
+          "text": "Compre & Teste",
+          "href": "https://www.samsung.com/br/offer/buy-and-try/",
+          "ariaLabel": "",
+          "textEnglish": "Shop & Try"
+        },
+        {
+          "text": "Live",
+          "href": "https://shop.samsung.com/br/live",
+          "ariaLabel": ". Abrir em uma nova janela",
+          "textEnglish": "Live"
+        },
+        {
+          "text": "AI Living",
+          "href": "https://www.samsung.com/br/ai-living/",
+          "ariaLabel": "",
+          "textEnglish": "AI Living"
+        },
+        {
+          "text": "SmartThings",
+          "href": "https://www.samsung.com/br/smartthings/",
+          "ariaLabel": "",
+          "textEnglish": "SmartThings"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_01_Shop.jpg",
+      "menuEnglish": "Shop"
+    },
+    {
+      "menu": "Mobile",
+      "menuHref": "https://www.samsung.com/br/smartphones/all-smartphones/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Smartphone NOVO",
+          "href": "https://www.samsung.com/br/smartphones/all-smartphones/",
+          "ariaLabel": "",
+          "textEnglish": "NEW Galaxy Smartphone"
+        },
+        {
+          "text": "Galaxy Tab",
+          "href": "https://www.samsung.com/br/tablets/all-tablets/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab"
+        },
+        {
+          "text": "Galaxy Book NOVO",
+          "href": "https://www.samsung.com/br/computers/all-computers/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book NEW"
+        },
+        {
+          "text": "Galaxy Watch NOVO",
+          "href": "https://www.samsung.com/br/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch NEW"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/br/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/br/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "Acessórios para Galaxy NOVO",
+          "href": "https://www.samsung.com/br/mobile-accessories/all-mobile-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Accessories NEW"
+        },
+        {
+          "text": "Conheça tudo sobre o Galaxy",
+          "href": "https://www.samsung.com/br/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "Learn all about the Galaxy"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/br/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "Encontre o seu Galaxy",
+          "href": "https://www.samsung.com/br/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find Your Galaxy"
+        },
+        {
+          "text": "Mude para Galaxy",
+          "href": "https://www.samsung.com/br/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/br/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/br/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "Aplicativos e Serviços",
+          "href": "https://www.samsung.com/br/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps and Services"
+        },
+        {
+          "text": "Troca Smart Samsung",
+          "href": "https://www.samsung.com/br/trade-in/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Smart Trade-In"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/br/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_02_Mobile.jpg",
+      "menuEnglish": "Mobile"
+    },
+    {
+      "menu": "TV & AV",
+      "menuHref": "https://www.samsung.com/br/tvs/all-tvs/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Neo QLED",
+          "href": "https://www.samsung.com/br/tvs/neo-qled-tvs/",
+          "ariaLabel": "",
+          "textEnglish": "Neo QLED"
+        },
+        {
+          "text": "OLED",
+          "href": "https://www.samsung.com/br/tvs/oled-tvs/",
+          "ariaLabel": "",
+          "textEnglish": "OLED"
+        },
+        {
+          "text": "QLED",
+          "href": "https://www.samsung.com/br/tvs/qled-tv/",
+          "ariaLabel": "",
+          "textEnglish": "QLED"
+        },
+        {
+          "text": "Mini LED NOVO",
+          "href": "https://www.samsung.com/br/tvs/mini-led-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Mini LED NEW"
+        },
+        {
+          "text": "Crystal UHD NOVO",
+          "href": "https://www.samsung.com/br/tvs/crystal-uhd-tvs/",
+          "ariaLabel": "",
+          "textEnglish": "Crystal UHD NOVO"
+        },
+        {
+          "text": "The Frame NOVO",
+          "href": "https://www.samsung.com/br/lifestyle-tvs/the-frame/",
+          "ariaLabel": "",
+          "textEnglish": "The Frame NOVO"
+        },
+        {
+          "text": "The Serif",
+          "href": "https://www.samsung.com/br/lifestyle-tvs/the-serif/",
+          "ariaLabel": "",
+          "textEnglish": "The Serif"
+        },
+        {
+          "text": "The Sero",
+          "href": "https://www.samsung.com/br/lifestyle-tvs/all-lifestyle-tvs/?the-sero",
+          "ariaLabel": "",
+          "textEnglish": "The Sero"
+        },
+        {
+          "text": "Áudio",
+          "href": "https://www.samsung.com/br/audio-devices/all-audio-devices/",
+          "ariaLabel": "",
+          "textEnglish": "Audio"
+        },
+        {
+          "text": "Projetores",
+          "href": "https://www.samsung.com/br/projectors/all-projectors/",
+          "ariaLabel": "",
+          "textEnglish": "Projectors"
+        },
+        {
+          "text": "Acessórios para TV",
+          "href": "https://www.samsung.com/br/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories"
+        },
+        {
+          "text": "WiFi Speakers",
+          "href": "https://www.samsung.com/br/audio-devices/wireless-speaker/",
+          "ariaLabel": "",
+          "textEnglish": "WiFi Speakers"
+        },
+        {
+          "text": "Acessórios para Áudio",
+          "href": "https://www.samsung.com/br/audio-devices/all-audio-devices/?acessories",
+          "ariaLabel": "",
+          "textEnglish": "Audio Accessories"
+        },
+        {
+          "text": "Samsung Vision AI",
+          "href": "https://www.samsung.com/br/tvs/vision-ai-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Vision AI"
+        },
+        {
+          "text": "Por que TV Samsung",
+          "href": "https://www.samsung.com/br/tvs/why-samsung-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Why Samsung TV"
+        },
+        {
+          "text": "Por que Samsung OLED",
+          "href": "https://www.samsung.com/br/tvs/oled-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why Samsung OLED"
+        },
+        {
+          "text": "Por que Neo QLED",
+          "href": "https://www.samsung.com/br/tvs/qled-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why Neo QLED"
+        },
+        {
+          "text": "Por que The Frame",
+          "href": "https://www.samsung.com/br/lifestyle-tvs/the-frame/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why The Frame"
+        },
+        {
+          "text": "Quero ajuda para escolher TV",
+          "href": "https://www.samsung.com/br/tvs/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "I need help choosing a TV"
+        },
+        {
+          "text": "Quero ajuda para escolher Áudio",
+          "href": "https://www.samsung.com/br/audio-devices/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "I need help choosing Audio"
+        },
+        {
+          "text": "MICRO LED",
+          "href": "https://www.samsung.com/br/tvs/micro-led/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "MICRO LED"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_03_TV_AV.jpg",
+      "menuEnglish": "TV & AV"
+    },
+    {
+      "menu": "Eletrodomésticos",
+      "menuHref": "https://www.samsung.com/br/refrigerators/all-refrigerators/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Combos de Eletrodomésticos",
+          "href": "https://www.samsung.com/br/appliance-packages/all-appliance-packages/",
+          "ariaLabel": "",
+          "textEnglish": "Appliance Bundles"
+        },
+        {
+          "text": "Geladeiras",
+          "href": "https://www.samsung.com/br/refrigerators/all-refrigerators/",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerators"
+        },
+        {
+          "text": "Forno de Embutir",
+          "href": "https://www.samsung.com/br/cooking-appliances/ovens/",
+          "ariaLabel": "",
+          "textEnglish": "Built-in Oven"
+        },
+        {
+          "text": "Coifa",
+          "href": "https://www.samsung.com/br/cooking-appliances/hoods/",
+          "ariaLabel": "",
+          "textEnglish": "Cap"
+        },
+        {
+          "text": "Cooktop à Gás",
+          "href": "https://www.samsung.com/br/cooking-appliances/hobs/",
+          "ariaLabel": "",
+          "textEnglish": "Gas Cooktop"
+        },
+        {
+          "text": "Lava-Louças",
+          "href": "https://www.samsung.com/br/dishwashers/all-dishwashers/",
+          "ariaLabel": "",
+          "textEnglish": "Dishwashers"
+        },
+        {
+          "text": "Fogão",
+          "href": "https://www.samsung.com/br/cooking-appliances/stoves/",
+          "ariaLabel": "",
+          "textEnglish": "Stove"
+        },
+        {
+          "text": "Lavanderia",
+          "href": "https://www.samsung.com/br/washers-and-dryers/all-washers-and-dryers/",
+          "ariaLabel": "",
+          "textEnglish": "Laundry"
+        },
+        {
+          "text": "Aspirador Vertical Sem Fio",
+          "href": "https://www.samsung.com/br/vacuum-cleaners/all-vacuum-cleaners/?vertical",
+          "ariaLabel": "",
+          "textEnglish": "Cordless Upright Vacuum Cleaner"
+        },
+        {
+          "text": "Aspirador Robô",
+          "href": "https://www.samsung.com/br/vacuum-cleaners/robot/",
+          "ariaLabel": "",
+          "textEnglish": "Robot Vacuum"
+        },
+        {
+          "text": "Ar-Condicionado",
+          "href": "https://www.samsung.com/br/air-conditioners/all-air-conditioners/",
+          "ariaLabel": "",
+          "textEnglish": "Air Conditioning"
+        },
+        {
+          "text": "Acessórios para Eletrodomésticos",
+          "href": "https://www.samsung.com/br/home-appliance-accessories/all-home-appliance-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Home Appliance Accessories"
+        },
+        {
+          "text": "Bespoke AI",
+          "href": "https://www.samsung.com/br/home-appliances/bespoke-home/",
+          "ariaLabel": "",
+          "textEnglish": "Bespoke AI"
+        },
+        {
+          "text": "Bespoke AI com SmartThings",
+          "href": "https://www.samsung.com/br/home-appliances/bespoke-ai-smartthings/",
+          "ariaLabel": "",
+          "textEnglish": "Bespoke AI with SmartThings"
+        },
+        {
+          "text": "Economia de Energia com AI",
+          "href": "https://www.samsung.com/br/home-appliances/ai-energy-saving/",
+          "ariaLabel": "",
+          "textEnglish": "Energy Savings with AI"
+        },
+        {
+          "text": "Por que Eletrodoméstico Samsung",
+          "href": "https://www.samsung.com/br/home-appliances/why-samsung-appliances/",
+          "ariaLabel": "",
+          "textEnglish": "Why Samsung Home Appliances"
+        },
+        {
+          "text": "Guia de Compras para Geladeiras",
+          "href": "https://www.samsung.com/br/home-appliances/buying-guide/refrigerator-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerator Buying Guide"
+        },
+        {
+          "text": "Guia de Compras para Lavanderia",
+          "href": "https://www.samsung.com/br/home-appliances/buying-guide/washing-machine-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Laundry Shopping Guide"
+        },
+        {
+          "text": "Guia de Compras para Aspiradores",
+          "href": "https://www.samsung.com/br/home-appliances/buying-guide/vacuum-cleaner-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Vacuum Cleaner Buying Guide"
+        },
+        {
+          "text": "Telas Inteligentes",
+          "href": "https://www.samsung.com/br/campaign/ha-smart-screens/",
+          "ariaLabel": "",
+          "textEnglish": "Smart Screens"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://www.samsung.com/br/home-appliances/faq/",
+          "ariaLabel": "",
+          "textEnglish": "FAQ"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_04_Eletrodom_sticos.jpg",
+      "menuEnglish": "Home Appliances"
+    },
+    {
+      "menu": "Computadores e Monitores",
+      "menuHref": "https://www.samsung.com/br/computers/all-computers/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Book & Notebooks",
+          "href": "https://www.samsung.com/br/computers/all-computers/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book & Notebooks"
+        },
+        {
+          "text": "Monitores",
+          "href": "https://www.samsung.com/br/monitors/all-monitors/",
+          "ariaLabel": "",
+          "textEnglish": "Monitors"
+        },
+        {
+          "text": "Galaxy Book Accessories",
+          "href": "https://www.samsung.com/br/computer-accessories/all-computer-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book Accessories"
+        },
+        {
+          "text": "Copilot+ PCs",
+          "href": "https://www.samsung.com/br/computers/galaxy-book-copilot-plus-pcs/",
+          "ariaLabel": "",
+          "textEnglish": "Copilot+ PCs"
+        },
+        {
+          "text": "Por que Monitores Odyssey",
+          "href": "https://www.samsung.com/br/monitors/odyssey-gaming-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Odyssey Monitors"
+        },
+        {
+          "text": "Por que Monitores Viewfinity",
+          "href": "https://www.samsung.com/br/monitors/viewfinity-high-resolution-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Viewfinity Monitors"
+        },
+        {
+          "text": "Por que Smart Monitor",
+          "href": "https://www.samsung.com/br/monitors/smart-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Smart Monitor"
+        },
+        {
+          "text": "Quero ajuda para escolher Monitor",
+          "href": "https://www.samsung.com/br/monitors/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "I need help choosing a monitor"
+        },
+        {
+          "text": "Guia de Compras para Monitores",
+          "href": "https://www.samsung.com/br/monitors/monitor-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Monitor Buying Guide"
+        },
+        {
+          "text": "Suporte Windows",
+          "href": "https://www.samsung.com/br/computers/upgrade-to-windows-11/",
+          "ariaLabel": "",
+          "textEnglish": "Windows Support"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_05_Computadores_e_Monitores.jpg",
+      "menuEnglish": "Computers and Monitors"
+    },
+    {
+      "menu": "Wearables",
+      "menuHref": "https://www.samsung.com/br/watches/all-watches/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Watch NOVO",
+          "href": "https://www.samsung.com/br/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch NEW"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/br/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/br/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "Acessórios Wearables NOVO",
+          "href": "https://www.samsung.com/br/mobile-accessories/all-mobile-accessories/?smartwatches+buds",
+          "ariaLabel": "",
+          "textEnglish": "Accessories Wearables NEW"
+        },
+        {
+          "text": "Conheça tudo sobre o Galaxy",
+          "href": "https://www.samsung.com/br/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "Learn all about the Galaxy"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/br/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/br/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "Encontre o seu Galaxy",
+          "href": "https://www.samsung.com/br/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find Your Galaxy"
+        },
+        {
+          "text": "Mude para Galaxy",
+          "href": "https://www.samsung.com/br/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/br/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "Aplicativos e Serviços",
+          "href": "https://www.samsung.com/br/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps and Services"
+        },
+        {
+          "text": "Troca Smart Samsung",
+          "href": "https://www.samsung.com/br/trade-in/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Smart Trade-In"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/br/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_06_Wearables.jpg",
+      "menuEnglish": "Wearables"
+    },
+    {
+      "menu": "Acessórios",
+      "menuHref": "https://www.samsung.com/br/accessories/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Acessórios para Smartphone Galaxy NOVO",
+          "href": "https://www.samsung.com/br/mobile-accessories/all-mobile-accessories/?smartphones",
+          "ariaLabel": "",
+          "textEnglish": "Accessories for the NEW Galaxy Smartphone"
+        },
+        {
+          "text": "Acessórios para Galaxy Tab",
+          "href": "https://www.samsung.com/br/mobile-accessories/all-mobile-accessories/?tablets",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab Accessories"
+        },
+        {
+          "text": "Acessórios do Galaxy Watch NOVO",
+          "href": "https://www.samsung.com/br/mobile-accessories/all-mobile-accessories/?smartwatches",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch Accessories NEW"
+        },
+        {
+          "text": "Acessórios para Galaxy Buds",
+          "href": "https://www.samsung.com/br/mobile-accessories/all-mobile-accessories/?buds",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds Accessories"
+        },
+        {
+          "text": "Acessórios para Galaxy Book",
+          "href": "https://www.samsung.com/br/computer-accessories/all-computer-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book Accessories"
+        },
+        {
+          "text": "SmartTag",
+          "href": "https://www.samsung.com/br/mobile-accessories/all-mobile-accessories/?smarttag",
+          "ariaLabel": "",
+          "textEnglish": "SmartTag"
+        },
+        {
+          "text": "Acessórios para TV",
+          "href": "https://www.samsung.com/br/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories"
+        },
+        {
+          "text": "Acessórios para Áudio",
+          "href": "https://www.samsung.com/br/audio-devices/all-audio-devices/?acessories",
+          "ariaLabel": "",
+          "textEnglish": "Audio Accessories"
+        },
+        {
+          "text": "Acessórios para Projetor",
+          "href": "https://www.samsung.com/br/tv-accessories/all-tv-accessories/?the-freestyle",
+          "ariaLabel": "",
+          "textEnglish": "Projector Accessories"
+        },
+        {
+          "text": "Acessórios para Geladeira",
+          "href": "https://www.samsung.com/br/refrigerators/all-refrigerators/?accessories",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerator Accessories"
+        },
+        {
+          "text": "Acessórios para Aspirador",
+          "href": "https://www.samsung.com/br/home-appliance-accessories/all-home-appliance-accessories/?vacuum-cleaner-accessories",
+          "ariaLabel": "",
+          "textEnglish": "Vacuum Cleaner Accessories"
+        },
+        {
+          "text": "Acessórios para Lavanderia",
+          "href": "https://www.samsung.com/br/home-appliance-accessories/all-home-appliance-accessories/?laundry-accessories",
+          "ariaLabel": "",
+          "textEnglish": "Laundry Accessories"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_07_Acess_rios.jpg",
+      "menuEnglish": "Accessories"
+    },
+    {
+      "menu": "Suporte",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Suporte",
+          "href": "https://www.samsung.com/br/support/",
+          "ariaLabel": "",
+          "textEnglish": "Support"
+        },
+        {
+          "text": "Dicas & Manuais",
+          "href": "https://www.samsung.com/br/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Tips & Guides"
+        },
+        {
+          "text": "Buscar Suporte",
+          "href": "https://www.samsung.com/br/search/?searchvalue=mobile#support",
+          "ariaLabel": "",
+          "textEnglish": "Search Support"
+        },
+        {
+          "text": "Dúvidas da Loja",
+          "href": "https://www.samsung.com/br/shop-faq/?_ga=2.256665928.238509570.1698095373-147623016.1693603255/",
+          "ariaLabel": "",
+          "textEnglish": "Store Questions"
+        },
+        {
+          "text": "Chat",
+          "href": "https://www.samsung.com/br/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Chat"
+        },
+        {
+          "text": "Telefones",
+          "href": "https://www.samsung.com/br/support/contact/#contactinfo",
+          "ariaLabel": "",
+          "textEnglish": "Phones"
+        },
+        {
+          "text": "Contatos Online",
+          "href": "https://www.samsung.com/br/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Online Contacts"
+        },
+        {
+          "text": "Atendimento em Libras",
+          "href": "https://www.samsung.com/br/support/atendimento-libras/",
+          "ariaLabel": "",
+          "textEnglish": "Customer Service in Brazilian Sign Language"
+        },
+        {
+          "text": "E-mail",
+          "href": "https://www.samsung.com/br/support/email/",
+          "ariaLabel": "",
+          "textEnglish": "Email"
+        },
+        {
+          "text": "Informação de Garantia",
+          "href": "https://www.samsung.com/br/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Warranty Information"
+        },
+        {
+          "text": "Localizar Assistência",
+          "href": "https://www.samsung.com/br/support/service-center/",
+          "ariaLabel": "",
+          "textEnglish": "Find Support"
+        },
+        {
+          "text": "Agendar um reparo",
+          "href": "https://www.samsung.com/br/mypage/myproducts/",
+          "ariaLabel": "",
+          "textEnglish": "Schedule a repair"
+        },
+        {
+          "text": "Acompanhar Meu reparo",
+          "href": "https://www.samsung.com/br/mypage/myrepair/track-repair/",
+          "ariaLabel": "",
+          "textEnglish": "Track My Repair"
+        },
+        {
+          "text": "Custo de Reparo",
+          "href": "https://www.samsung.com/br/support/valorreparo/",
+          "ariaLabel": "",
+          "textEnglish": "Repair Cost"
+        },
+        {
+          "text": "Notícias & Alertas",
+          "href": "https://www.samsung.com/br/support/newsalert/",
+          "ariaLabel": "",
+          "textEnglish": "News & Alerts"
+        },
+        {
+          "text": "Pergunte para a Comunidade",
+          "href": "https://r1.community.samsung.com/t5/brasil/ct-p/br?profile.language=pt-br",
+          "ariaLabel": "Pergunte para a Comunidade. Abrir em uma nova janela",
+          "textEnglish": "Ask the Community"
+        },
+        {
+          "text": "Garantia",
+          "href": "https://www.samsung.com/br/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Warranty"
+        },
+        {
+          "text": "Manuais",
+          "href": "https://www.samsung.com/br/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Manuals"
+        },
+        {
+          "text": "Localizar Assistência",
+          "href": "https://www.samsung.com/br/support/service-center/",
+          "ariaLabel": "",
+          "textEnglish": "Find Support"
+        },
+        {
+          "text": "Fale Conosco",
+          "href": "https://www.samsung.com/br/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Contact Us"
+        },
+        {
+          "text": "Samsung Experience Store",
+          "href": "https://www.samsung.com/br/campaign/storecontacts/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Experience Store"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_08_Suporte.jpg",
+      "menuEnglish": "Support"
+    },
+    {
+      "menu": "Para Empresas",
+      "menuHref": "https://www.samsung.com/br/business/",
+      "menuAriaLabel": "Para Empresas. Abrir em uma nova janela",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_09_Para_Empresas.jpg",
+      "menuEnglish": "For Businesses"
+    },
+    {
+      "menu": "Pesquisar Pesquisar",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_10_Pesquisar_Pesquisar.jpg",
+      "menuEnglish": "Search Search"
+    },
+    {
+      "menu": "Carrinho",
+      "menuHref": "https://shop.samsung.com/br/cart",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_11_Carrinho.jpg",
+      "menuEnglish": "Cart"
+    },
+    {
+      "menu": "Entrar/Registrar",
+      "menuHref": "",
+      "menuAriaLabel": "Manage Account",
+      "hoverItems": [
+        {
+          "text": "Entrar/Registrar",
+          "href": "",
+          "ariaLabel": "",
+          "textEnglish": "Log In/Sign Up"
+        },
+        {
+          "text": "Meus pedidos",
+          "href": "https://shop.samsung.com/br/account#/orders",
+          "ariaLabel": "my orders",
+          "textEnglish": "My Orders"
+        },
+        {
+          "text": "Meus produtos",
+          "href": "https://www.samsung.com/br/mypage/myproducts/",
+          "ariaLabel": "my products",
+          "textEnglish": "My Products"
+        },
+        {
+          "text": "Samsung Rewards",
+          "href": "https://shop.samsung.com/br/account#/rewards",
+          "ariaLabel": "samsung rewards",
+          "textEnglish": "Samsung Rewards"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_br_12_Entrar_Registrar.jpg",
+      "menuEnglish": "Log In/Sign Up"
+    }
+  ]
+}

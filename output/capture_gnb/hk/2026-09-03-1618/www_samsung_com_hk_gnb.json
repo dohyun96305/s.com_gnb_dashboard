@@ -1,0 +1,890 @@
+{
+  "url": "https://www.samsung.com/hk",
+  "capturedAt": "2026-09-03T16:24:39+09:00",
+  "detection": "structure-and-hover-diff",
+  "root": {
+    "selector": "nav",
+    "role": "navigation",
+    "id": "component-id",
+    "className": "nv00-gnb-v4 nv00-gnb-v4--text-type nv00-gnb-v4--shy-light",
+    "score": 109.3,
+    "interactiveCount": 201
+  },
+  "menus": [
+    {
+      "menu": "Samsung",
+      "menuHref": "https://www.samsung.com/hk/",
+      "menuAriaLabel": "Samsung",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_00_Samsung.jpg",
+      "menuEnglish": "Samsung"
+    },
+    {
+      "menu": "網上商店",
+      "menuHref": "https://www.samsung.com/hk/offer/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy S26 Ultra",
+          "href": "https://www.samsung.com/hk/smartphones/galaxy-s26-ultra/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy S26 Ultra"
+        },
+        {
+          "text": "Galaxy Z Fold8 新",
+          "href": "https://www.samsung.com/hk/smartphones/galaxy-z-fold8/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Z Fold8 New"
+        },
+        {
+          "text": "Galaxy Z Fold8 Ultra 新",
+          "href": "https://www.samsung.com/hk/smartphones/galaxy-z-fold8-ultra/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Z Fold8 Ultra New"
+        },
+        {
+          "text": "Galaxy Z Flip8 新",
+          "href": "https://www.samsung.com/hk/smartphones/galaxy-z-flip8/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Z Flip8 New"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "https://www.samsung.com/hk/tablets/galaxy-tab-s11/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tab S11 Series"
+        },
+        {
+          "text": "Galaxy Watch Ultra2 新",
+          "href": "https://www.samsung.com/hk/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzsatgy/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch Ultra2 新"
+        },
+        {
+          "text": "Galaxy Buds4 Pro",
+          "href": "https://www.samsung.com/hk/audio-sound/galaxy-buds4-pro/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds4 Pro"
+        },
+        {
+          "text": "Galaxy Book6系列",
+          "href": "https://www.samsung.com/hk/computers/galaxy-book/galaxy-book6-series/buy/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book6 Series"
+        },
+        {
+          "text": "Micro RGB",
+          "href": "https://www.samsung.com/hk/tvs/micro-rgb/r95h-65-inch-4k-smart-tv-mra65r95hajxzk/",
+          "ariaLabel": "",
+          "textEnglish": "Micro RGB"
+        },
+        {
+          "text": "OLED",
+          "href": "https://www.samsung.com/hk/tvs/oled-tv/s85h-55-inch-4k-smart-tv-qa55s86haexzk/",
+          "ariaLabel": "",
+          "textEnglish": "OLED"
+        },
+        {
+          "text": "Neo QLED",
+          "href": "https://www.samsung.com/hk/tvs/all-tvs/?neo-qled",
+          "ariaLabel": "",
+          "textEnglish": "Neo QLED"
+        },
+        {
+          "text": "The Frame Pro",
+          "href": "https://www.samsung.com/hk/lifestyle-tvs/the-frame/ls03hw-55-inch-qa55ls03hwjxzk/",
+          "ariaLabel": "",
+          "textEnglish": "The Frame Pro"
+        },
+        {
+          "text": "Odyssey 電競顯示器",
+          "href": "https://www.samsung.com/hk/monitors/all-monitors/?gaming",
+          "ariaLabel": "",
+          "textEnglish": "Odyssey Gaming Monitors"
+        },
+        {
+          "text": "Music Studio 5 揚聲器 新",
+          "href": "https://www.samsung.com/hk/audio-devices/wireless-speaker/ls51h-white-hw-ls51h-zk/",
+          "ariaLabel": "",
+          "textEnglish": "Music Studio 5 Speakers New"
+        },
+        {
+          "text": "全新 Galaxy Z 系列摺疊手機",
+          "href": "https://www.samsung.com/hk/offer/galaxy-z-fold8-online-shop-2026/",
+          "ariaLabel": "",
+          "textEnglish": "The all-new Galaxy Z Series foldable phones"
+        },
+        {
+          "text": "DBS 信用卡優惠",
+          "href": "https://www.samsung.com/hk/offer/dbs-sept-2026/",
+          "ariaLabel": "",
+          "textEnglish": "DBS Credit Card Offers"
+        },
+        {
+          "text": "Outlet 專區",
+          "href": "https://www.samsung.com/hk/offer/clearance-sale/",
+          "ariaLabel": "",
+          "textEnglish": "Outlet Section"
+        },
+        {
+          "text": "下載 Shop App",
+          "href": "https://www.samsung.com/hk/apps/samsung-shop-app/",
+          "ariaLabel": "",
+          "textEnglish": "Download the Shop App"
+        },
+        {
+          "text": "升級禮遇 只在官網",
+          "href": "https://www.samsung.com/hk/buy-direct-get-more/",
+          "ariaLabel": "",
+          "textEnglish": "Upgrade Benefits Available Only on the Official Website"
+        },
+        {
+          "text": "學生及教職員優惠",
+          "href": "https://www.samsung.com/hk/offer/education-store/",
+          "ariaLabel": "",
+          "textEnglish": "Student and Faculty Discounts"
+        },
+        {
+          "text": "SmartThings",
+          "href": "https://www.samsung.com/hk/smartthings/",
+          "ariaLabel": "",
+          "textEnglish": "SmartThings"
+        },
+        {
+          "text": "Samsung Rewards",
+          "href": "https://www.samsung.com/hk/rewards/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Rewards"
+        },
+        {
+          "text": "AI Living",
+          "href": "https://www.samsung.com/hk/ai-living/",
+          "ariaLabel": "",
+          "textEnglish": "AI Living"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_01_menu_1.jpg",
+      "menuEnglish": "Online Store"
+    },
+    {
+      "menu": "流動產品",
+      "menuHref": "https://www.samsung.com/hk/smartphones/all-smartphones/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy 智能手機 新",
+          "href": "https://www.samsung.com/hk/smartphones/all-smartphones/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Smartphones New"
+        },
+        {
+          "text": "Galaxy 平板電腦",
+          "href": "https://www.samsung.com/hk/tablets/all-tablets/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tablets"
+        },
+        {
+          "text": "Galaxy Book",
+          "href": "https://www.samsung.com/hk/computers/all-computers/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book"
+        },
+        {
+          "text": "Galaxy 智能手錶 新",
+          "href": "https://www.samsung.com/hk/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Smartwatch New"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/hk/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/hk/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "Galaxy 配件 新",
+          "href": "https://www.samsung.com/hk/mobile-accessories/all-mobile-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Accessories New"
+        },
+        {
+          "text": "全面探索 Galaxy",
+          "href": "https://www.samsung.com/hk/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "Explore the Galaxy in Full"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/hk/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "尋找最合適你的 Galaxy",
+          "href": "https://www.samsung.com/hk/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find the Galaxy That's Right for You"
+        },
+        {
+          "text": "切換到 Galaxy",
+          "href": "https://www.samsung.com/hk/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/hk/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/hk/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "應用程式與服務",
+          "href": "https://www.samsung.com/hk/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps and Services"
+        },
+        {
+          "text": "Samsung Trade-in",
+          "href": "https://www.samsung.com/hk/trade-in/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Trade-in"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/hk/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_02_menu_2.jpg",
+      "menuEnglish": "Mobile Products"
+    },
+    {
+      "menu": "電視影音",
+      "menuHref": "https://www.samsung.com/hk/tvs/all-tvs/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Micro RGB",
+          "href": "https://www.samsung.com/hk/tvs/all-tvs/?micro-rgb",
+          "ariaLabel": "",
+          "textEnglish": "Micro RGB"
+        },
+        {
+          "text": "OLED",
+          "href": "https://www.samsung.com/hk/tvs/all-tvs/?oled",
+          "ariaLabel": "",
+          "textEnglish": "OLED"
+        },
+        {
+          "text": "Neo QLED",
+          "href": "https://www.samsung.com/hk/tvs/all-tvs/?neo-qled",
+          "ariaLabel": "",
+          "textEnglish": "Neo QLED"
+        },
+        {
+          "text": "Mini LED",
+          "href": "https://www.samsung.com/hk/tvs/all-tvs/?mini-led",
+          "ariaLabel": "",
+          "textEnglish": "Mini LED"
+        },
+        {
+          "text": "QLED",
+          "href": "https://www.samsung.com/hk/tvs/all-tvs/?qled",
+          "ariaLabel": "",
+          "textEnglish": "QLED"
+        },
+        {
+          "text": "Crystal UHD",
+          "href": "https://www.samsung.com/hk/tvs/all-tvs/?crystal-uhd",
+          "ariaLabel": "",
+          "textEnglish": "Crystal UHD"
+        },
+        {
+          "text": "The Frame",
+          "href": "https://www.samsung.com/hk/lifestyle-tvs/the-frame/",
+          "ariaLabel": "",
+          "textEnglish": "The Frame"
+        },
+        {
+          "text": "The Movingstyle",
+          "href": "https://www.samsung.com/hk/movable-screens/the-movingstyle/lsm7f-27-inch-ua27lsm7faxxzk/",
+          "ariaLabel": "",
+          "textEnglish": "The Movingstyle"
+        },
+        {
+          "text": "Soundbar",
+          "href": "https://www.samsung.com/hk/audio-devices/all-audio-devices/",
+          "ariaLabel": "",
+          "textEnglish": "Soundbar"
+        },
+        {
+          "text": "無線揚聲器",
+          "href": "https://www.samsung.com/hk/audio-devices/wireless-speaker/",
+          "ariaLabel": "",
+          "textEnglish": "Wireless Speakers"
+        },
+        {
+          "text": "投影機",
+          "href": "https://www.samsung.com/hk/projectors/all-projectors/",
+          "ariaLabel": "",
+          "textEnglish": "Projectors"
+        },
+        {
+          "text": "電視配件",
+          "href": "https://www.samsung.com/hk/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories"
+        },
+        {
+          "text": "音響配件",
+          "href": "https://www.samsung.com/hk/audio-accessories/all-audio-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Audio Accessories"
+        },
+        {
+          "text": "Samsung Vision AI",
+          "href": "https://www.samsung.com/hk/tvs/vision-ai-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Vision AI"
+        },
+        {
+          "text": "為何選擇 Micro RGB",
+          "href": "https://www.samsung.com/hk/tvs/micro-rgb-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose Micro RGB"
+        },
+        {
+          "text": "為何選擇 OLED",
+          "href": "https://www.samsung.com/hk/tvs/oled-tv/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose OLED"
+        },
+        {
+          "text": "為何選擇 The Frame",
+          "href": "https://www.samsung.com/hk/lifestyle-tvs/the-frame/highlights/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose The Frame"
+        },
+        {
+          "text": "遊戲電視",
+          "href": "https://www.samsung.com/hk/tvs/gaming-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Gaming TV"
+        },
+        {
+          "text": "藝術電視",
+          "href": "https://www.samsung.com/hk/tvs/art-tv/",
+          "ariaLabel": "",
+          "textEnglish": "Art TV"
+        },
+        {
+          "text": "選擇「你」想電視",
+          "href": "https://www.samsung.com/hk/tvs/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "Select the TV you want"
+        },
+        {
+          "text": "選擇「你」想 Soundbar",
+          "href": "https://www.samsung.com/hk/audio-devices/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "Select the Soundbar you want"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_03_menu_3.jpg",
+      "menuEnglish": "TV & Entertainment"
+    },
+    {
+      "menu": "生活家電",
+      "menuHref": "https://www.samsung.com/hk/refrigerators/all-refrigerators/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "雪櫃",
+          "href": "https://www.samsung.com/hk/refrigerators/all-refrigerators/",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerator"
+        },
+        {
+          "text": "洗衣乾衣機",
+          "href": "https://www.samsung.com/hk/washers-and-dryers/all-washers-and-dryers/",
+          "ariaLabel": "",
+          "textEnglish": "Washer-Dryer"
+        },
+        {
+          "text": "智能魔衣櫥",
+          "href": "https://www.samsung.com/hk/washers-and-dryers/airdresser/df5000cm-dryer-dual-airwash-dual-jetsteam-ai-dry-silver-df18cb8700clsh/",
+          "ariaLabel": "",
+          "textEnglish": "Smart Wardrobe"
+        },
+        {
+          "text": "吸塵機",
+          "href": "https://www.samsung.com/hk/vacuum-cleaners/all-vacuum-cleaners/",
+          "ariaLabel": "",
+          "textEnglish": "Vacuum Cleaner"
+        },
+        {
+          "text": "冷氣機",
+          "href": "https://www.samsung.com/hk/air-conditioners/all-air-conditioners/",
+          "ariaLabel": "",
+          "textEnglish": "Air Conditioners"
+        },
+        {
+          "text": "生活家電配件",
+          "href": "https://www.samsung.com/hk/home-appliance-accessories/all-home-appliance-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Home Appliance Accessories"
+        },
+        {
+          "text": "Bespoke AI",
+          "href": "https://www.samsung.com/hk/home-appliances/bespoke-home/",
+          "ariaLabel": "",
+          "textEnglish": "Bespoke AI"
+        },
+        {
+          "text": "為何選擇 Samsung 家電",
+          "href": "https://www.samsung.com/hk/home-appliances/why-samsung-appliances/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose Samsung Home Appliances"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_04_menu_4.jpg",
+      "menuEnglish": "Home Appliances"
+    },
+    {
+      "menu": "電腦及周邊 & 顯示器",
+      "menuHref": "https://www.samsung.com/hk/computers/all-computers/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Book 及手提電腦",
+          "href": "https://www.samsung.com/hk/computers/all-computers/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book and Laptops"
+        },
+        {
+          "text": "顯示器",
+          "href": "https://www.samsung.com/hk/monitors/all-monitors/",
+          "ariaLabel": "",
+          "textEnglish": "Monitors"
+        },
+        {
+          "text": "Odyssey 電競顯示器",
+          "href": "https://www.samsung.com/hk/monitors/all-monitors/?gaming",
+          "ariaLabel": "",
+          "textEnglish": "Odyssey Gaming Monitors"
+        },
+        {
+          "text": "智能顯示器",
+          "href": "https://www.samsung.com/hk/monitors/all-monitors/?smart-monitor",
+          "ariaLabel": "",
+          "textEnglish": "Smart Displays"
+        },
+        {
+          "text": "QD-OLED 顯示器",
+          "href": "https://www.samsung.com/hk/monitors/all-monitors/?new-qd-oled",
+          "ariaLabel": "",
+          "textEnglish": "QD-OLED Displays"
+        },
+        {
+          "text": "Galaxy Book 配件",
+          "href": "https://www.samsung.com/hk/computer-accessories/all-computer-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book Accessories"
+        },
+        {
+          "text": "Copilot+ PCs",
+          "href": "https://www.samsung.com/hk/computers/galaxy-book-copilot-plus-pcs/",
+          "ariaLabel": "",
+          "textEnglish": "Copilot+ PCs"
+        },
+        {
+          "text": "為何選擇 Odyssey 遊戲顯示器",
+          "href": "https://www.samsung.com/hk/monitors/odyssey-gaming-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose an Odyssey Gaming Monitor"
+        },
+        {
+          "text": "為何選擇 ViewFinity 高解像度顯示器",
+          "href": "https://www.samsung.com/hk/monitors/viewfinity-high-resolution-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose ViewFinity High-Resolution Monitors"
+        },
+        {
+          "text": "為何選擇 Smart 智能顯示器",
+          "href": "https://www.samsung.com/hk/monitors/smart-monitor/",
+          "ariaLabel": "",
+          "textEnglish": "Why Choose the Smart Display"
+        },
+        {
+          "text": "選擇「你」想顯示器",
+          "href": "https://www.samsung.com/hk/monitors/help-me-choose/",
+          "ariaLabel": "",
+          "textEnglish": "Select \"you\" to display"
+        },
+        {
+          "text": "無縫升級至 Windows 11",
+          "href": "https://www.samsung.com/hk/computers/upgrade-to-windows-11/",
+          "ariaLabel": "",
+          "textEnglish": "Seamless upgrade to Windows 11"
+        },
+        {
+          "text": "顯示器購買指南",
+          "href": "https://www.samsung.com/hk/monitors/monitor-buying-guide/",
+          "ariaLabel": "",
+          "textEnglish": "Monitor Buying Guide"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_05_menu_5.jpg",
+      "menuEnglish": "Computers & Peripherals & Monitors"
+    },
+    {
+      "menu": "可穿戴式裝置",
+      "menuHref": "https://www.samsung.com/hk/watches/all-watches/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy Watch 新",
+          "href": "https://www.samsung.com/hk/watches/all-watches/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Watch New"
+        },
+        {
+          "text": "Galaxy Buds",
+          "href": "https://www.samsung.com/hk/audio-sound/all-audio-sound/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds"
+        },
+        {
+          "text": "Galaxy Ring",
+          "href": "https://www.samsung.com/hk/rings/all-rings/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Ring"
+        },
+        {
+          "text": "可穿戴式裝置配件 新",
+          "href": "https://www.samsung.com/hk/mobile-accessories/all-mobile-accessories/?watch-straps",
+          "ariaLabel": "",
+          "textEnglish": "Wearable Device Accessories New"
+        },
+        {
+          "text": "全面探索 Galaxy",
+          "href": "https://www.samsung.com/hk/mobile/",
+          "ariaLabel": "",
+          "textEnglish": "Explore the Galaxy in Full"
+        },
+        {
+          "text": "Samsung Health",
+          "href": "https://www.samsung.com/hk/apps/samsung-health/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Health"
+        },
+        {
+          "text": "Galaxy AI",
+          "href": "https://www.samsung.com/hk/galaxy-ai/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy AI"
+        },
+        {
+          "text": "尋找最合適你的 Galaxy",
+          "href": "https://www.samsung.com/hk/mobile/find-your-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Find the Galaxy That's Right for You"
+        },
+        {
+          "text": "切換到 Galaxy",
+          "href": "https://www.samsung.com/hk/mobile/switch-to-galaxy/",
+          "ariaLabel": "",
+          "textEnglish": "Switch to Galaxy"
+        },
+        {
+          "text": "One UI",
+          "href": "https://www.samsung.com/hk/one-ui/",
+          "ariaLabel": "",
+          "textEnglish": "One UI"
+        },
+        {
+          "text": "應用程式與服務",
+          "href": "https://www.samsung.com/hk/apps/",
+          "ariaLabel": "",
+          "textEnglish": "Apps and Services"
+        },
+        {
+          "text": "Samsung Trade-in",
+          "href": "https://www.samsung.com/hk/trade-in/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Trade-in"
+        },
+        {
+          "text": "Samsung Care+",
+          "href": "https://www.samsung.com/hk/offer/samsung-care-plus/",
+          "ariaLabel": "",
+          "textEnglish": "Samsung Care+"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_06_menu_6.jpg",
+      "menuEnglish": "Wearable Devices"
+    },
+    {
+      "menu": "配件",
+      "menuHref": "https://www.samsung.com/hk/accessories/",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "Galaxy 智能手機配件 新",
+          "href": "https://www.samsung.com/hk/mobile-accessories/all-mobile-accessories/?smartphones",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Smartphone Accessories New"
+        },
+        {
+          "text": "Galaxy 平板電腦配件",
+          "href": "https://www.samsung.com/hk/mobile-accessories/all-mobile-accessories/?tablets",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Tablet Accessories"
+        },
+        {
+          "text": "Galaxy 智能手錶配件 新",
+          "href": "https://www.samsung.com/hk/mobile-accessories/all-mobile-accessories/?watches",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Smartwatch Accessories New"
+        },
+        {
+          "text": "Galaxy Buds 配件",
+          "href": "https://www.samsung.com/hk/mobile-accessories/all-mobile-accessories/?audio",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Buds Accessories"
+        },
+        {
+          "text": "Galaxy Book 配件",
+          "href": "https://www.samsung.com/hk/computer-accessories/all-computer-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Galaxy Book Accessories"
+        },
+        {
+          "text": "SmartTag",
+          "href": "https://www.samsung.com/hk/mobile-accessories/all-mobile-accessories/?smarttag",
+          "ariaLabel": "",
+          "textEnglish": "SmartTag"
+        },
+        {
+          "text": "電視配件",
+          "href": "https://www.samsung.com/hk/tv-accessories/all-tv-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "TV Accessories"
+        },
+        {
+          "text": "音響配件",
+          "href": "https://www.samsung.com/hk/audio-accessories/all-audio-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Audio Accessories"
+        },
+        {
+          "text": "投影機配件",
+          "href": "https://www.samsung.com/hk/projector-accessories/all-projector-accessories/",
+          "ariaLabel": "",
+          "textEnglish": "Projector Accessories"
+        },
+        {
+          "text": "雪櫃配件",
+          "href": "https://www.samsung.com/hk/home-appliance-accessories/all-home-appliance-accessories/?refrigerator-accessories",
+          "ariaLabel": "",
+          "textEnglish": "Refrigerator Accessories"
+        },
+        {
+          "text": "吸塵機配件",
+          "href": "https://www.samsung.com/hk/vacuum-cleaners/all-vacuum-cleaners/?brush+battery+consumables",
+          "ariaLabel": "",
+          "textEnglish": "Vacuum Cleaner Accessories"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_07_menu_7.jpg",
+      "menuEnglish": "Accessories"
+    },
+    {
+      "menu": "服務支援",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [
+        {
+          "text": "服務支援主頁",
+          "href": "https://www.samsung.com/hk/support/",
+          "ariaLabel": "",
+          "textEnglish": "Service Support Home"
+        },
+        {
+          "text": "用戶手冊與下載",
+          "href": "https://www.samsung.com/hk/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "User Manuals and Downloads"
+        },
+        {
+          "text": "尋找更多資訊",
+          "href": "https://www.samsung.com/hk/search/?searchvalue=mobile#support",
+          "ariaLabel": "",
+          "textEnglish": "Find More Information"
+        },
+        {
+          "text": "網上商店常見問題",
+          "href": "https://www.samsung.com/hk/shop-faq/",
+          "ariaLabel": "",
+          "textEnglish": "Online Store FAQs"
+        },
+        {
+          "text": "即時對話支援",
+          "href": "https://www.samsung.com/hk/support/contact/#start-chat",
+          "ariaLabel": "",
+          "textEnglish": "Live Chat Support"
+        },
+        {
+          "text": "熱線服務",
+          "href": "https://www.samsung.com/hk/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Hotline Service"
+        },
+        {
+          "text": "Email 支援",
+          "href": "https://forms-prod.sprinklr.com/guided-workflows/650bfb468738d0224ad5fb8e?gwId=657aa984238bb1714dbdcc71&viewType=FULL_PAGE",
+          "ariaLabel": "Email 支援. 在新視窗中打開",
+          "textEnglish": "Email Support"
+        },
+        {
+          "text": "產品保用資料",
+          "href": "https://www.samsung.com/hk/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Product Warranty Information"
+        },
+        {
+          "text": "服務中心位置",
+          "href": "https://www.samsung.com/hk/support/service-center/",
+          "ariaLabel": "",
+          "textEnglish": "Service Center Locations"
+        },
+        {
+          "text": "預約維修",
+          "href": "https://www.samsung.com/hk/mypage/myproducts/",
+          "ariaLabel": "",
+          "textEnglish": "Schedule a Repair"
+        },
+        {
+          "text": "即時網上取票",
+          "href": "https://www.samsung.com/hk/support/online-ticket/",
+          "ariaLabel": "",
+          "textEnglish": "Instant Online Ticket Pickup"
+        },
+        {
+          "text": "追蹤我的維修訂單",
+          "href": "https://www.samsung.com/hk/mypage/myrepair/track-repair/",
+          "ariaLabel": "",
+          "textEnglish": "Track My Repair Order"
+        },
+        {
+          "text": "智能手機顯示屏更換價目表",
+          "href": "https://www.samsung.com/hk/support/smartphone-out-of-warranty-repair-price/",
+          "ariaLabel": "",
+          "textEnglish": "Smartphone Screen Replacement Price List"
+        },
+        {
+          "text": "新聞與公告",
+          "href": "https://www.samsung.com/hk/support/newsalert/",
+          "ariaLabel": "",
+          "textEnglish": "News and Announcements"
+        },
+        {
+          "text": "產品保用",
+          "href": "https://www.samsung.com/hk/support/warranty/",
+          "ariaLabel": "",
+          "textEnglish": "Product Warranty"
+        },
+        {
+          "text": "用戶手冊與下載",
+          "href": "https://www.samsung.com/hk/support/user-manuals-and-guide/",
+          "ariaLabel": "",
+          "textEnglish": "User Manuals and Downloads"
+        },
+        {
+          "text": "服務中心位置",
+          "href": "https://www.samsung.com/hk/support/service-center/",
+          "ariaLabel": "",
+          "textEnglish": "Service Center Locations"
+        },
+        {
+          "text": "聯絡我們",
+          "href": "https://www.samsung.com/hk/support/contact/",
+          "ariaLabel": "",
+          "textEnglish": "Contact Us"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_08_menu_8.jpg",
+      "menuEnglish": "Service Support"
+    },
+    {
+      "menu": "商務用戶選購",
+      "menuHref": "https://www.samsung.com/hk/business/",
+      "menuAriaLabel": "商務用戶選購. 在新視窗中打開",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_09_menu_9.jpg",
+      "menuEnglish": "Shopping for Business Users"
+    },
+    {
+      "menu": "搜尋 搜尋",
+      "menuHref": "",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_10_menu_10.jpg",
+      "menuEnglish": "Search Search"
+    },
+    {
+      "menu": "Cart",
+      "menuHref": "https://shop.samsung.com/hk/cart",
+      "menuAriaLabel": "",
+      "hoverItems": [],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_11_Cart.jpg",
+      "menuEnglish": "Cart"
+    },
+    {
+      "menu": "登入/註冊",
+      "menuHref": "",
+      "menuAriaLabel": "Manage Account",
+      "hoverItems": [
+        {
+          "text": "登入/註冊",
+          "href": "",
+          "ariaLabel": "",
+          "textEnglish": "Log In/Sign Up"
+        },
+        {
+          "text": "追蹤您的訂單",
+          "href": "https://shop.samsung.com/hk/track-order",
+          "ariaLabel": "track your order",
+          "textEnglish": "Track Your Order"
+        },
+        {
+          "text": "我的產品",
+          "href": "https://www.samsung.com/hk/mypage/myproducts/",
+          "ariaLabel": "myproducts",
+          "textEnglish": "My Products"
+        },
+        {
+          "text": "Samsung Rewards",
+          "href": "https://www.samsung.com/hk/rewards/",
+          "ariaLabel": "samsung rewards",
+          "textEnglish": "Samsung Rewards"
+        }
+      ],
+      "hoverScreenshot": "hover_screenshots/www_samsung_com_hk_12_menu_12.jpg",
+      "menuEnglish": "Log In/Sign Up"
+    }
+  ]
+}
