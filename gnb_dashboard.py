@@ -82,9 +82,13 @@ def apply_page_styles() -> None:
             min-height: 86px;
             max-height: 86px;
             padding: 0.55rem 0.7rem;
-            white-space: pre;
             line-height: 1.28;
             overflow: hidden;
+        }}
+        /* Streamlit renders a button label inside a paragraph, so preserve its newlines there. */
+        div[data-testid="stButton"] > button p {{
+            white-space: pre-line !important;
+            margin: 0;
         }}
         .detail-panel-title {{
             font-size: 1.08rem;
