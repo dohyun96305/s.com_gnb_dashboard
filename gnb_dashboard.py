@@ -82,6 +82,8 @@ def apply_page_styles() -> None:
             min-height: 86px;
             max-height: 86px;
             padding: 0.55rem 0.7rem;
+            font-size: 1rem;
+            font-weight: 560;
             line-height: 1.28;
             overflow: hidden;
         }}
@@ -120,7 +122,7 @@ def apply_page_styles() -> None:
             div[data-testid="stButton"] > button {{
                 min-height: 78px;
                 max-height: 78px;
-                font-size: 0.88rem;
+                font-size: 0.95rem;
                 padding: 0.45rem 0.55rem;
             }}
             .menu-detail-title {{
