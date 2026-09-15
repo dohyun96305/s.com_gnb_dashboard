@@ -12,6 +12,7 @@ from config import (
     DASHBOARD_LINK_TABLE_MAX_HEIGHT,
     DASHBOARD_LINK_TABLE_LINK_MIN_WIDTH_PX,
     DASHBOARD_LINK_TABLE_MIN_HEIGHT,
+    DASHBOARD_LINK_TABLE_MIN_WIDTH_PX,
     DASHBOARD_LINK_TABLE_NO_WIDTH_PX,
     DASHBOARD_LINK_TABLE_ROW_HEIGHT,
     DASHBOARD_LINK_TABLE_TEXT_MIN_WIDTH_PX,
@@ -273,11 +274,17 @@ def resizable_link_table_html(rows: list[dict]) -> str:
             .table-wrap {{
                 min-height: {DASHBOARD_LINK_TABLE_MIN_HEIGHT}px;
                 max-height: {DASHBOARD_LINK_TABLE_MAX_HEIGHT}px;
-                overflow: auto;
+                overflow-x: scroll;
+                overflow-y: auto;
                 border: 1px solid rgba(49, 51, 63, 0.2);
                 border-radius: 0.35rem;
             }}
-            table {{ width: 100%; border-collapse: collapse; table-layout: fixed; }}
+            table {{
+                width: max-content;
+                min-width: max(100%, {DASHBOARD_LINK_TABLE_MIN_WIDTH_PX}px);
+                border-collapse: collapse;
+                table-layout: auto;
+            }}
             th, td {{
                 height: {DASHBOARD_LINK_TABLE_ROW_HEIGHT}px;
                 padding: 0.55rem 0.6rem;
@@ -298,11 +305,14 @@ def resizable_link_table_html(rows: list[dict]) -> str:
             th:last-child, td:last-child {{ border-right: 0; }}
             tbody tr:last-child td {{ border-bottom: 0; }}
             .no {{ text-align: center; }}
-            .cell-content {{ overflow: hidden; }}
-            .text .source, .text .translation, .link .cell-content {{
+            .text .source, .text .translation {{
                 display: block;
                 overflow: hidden;
                 text-overflow: ellipsis;
+                white-space: nowrap;
+            }}
+            .link .cell-content {{
+                display: block;
                 white-space: nowrap;
             }}
             .menu-link-row td {{ background-color: {DASHBOARD_MENU_LINK_ROW_BACKGROUND}; }}
