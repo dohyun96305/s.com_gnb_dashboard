@@ -15,6 +15,7 @@ from config import (
     DASHBOARD_LINK_TABLE_MIN_WIDTH_PX,
     DASHBOARD_LINK_TABLE_NO_WIDTH_PX,
     DASHBOARD_LINK_TABLE_ROW_HEIGHT,
+    DASHBOARD_LINK_TABLE_TEXT_DEFAULT_WIDTH_PERCENT,
     DASHBOARD_LINK_TABLE_TEXT_MIN_WIDTH_PX,
     DASHBOARD_MENU_BUTTON_LINE_MAX_CHARS,
     DASHBOARD_MENU_COLUMNS,
@@ -335,7 +336,7 @@ def resizable_link_table_html(rows: list[dict]) -> str:
             <table id="collected-links-table">
                 <colgroup>
                     <col id="no-column" style="width: {DASHBOARD_LINK_TABLE_NO_WIDTH_PX}px">
-                    <col id="text-column" style="width: 42%">
+                    <col id="text-column" style="width: {DASHBOARD_LINK_TABLE_TEXT_DEFAULT_WIDTH_PERCENT}%">
                     <col id="link-column">
                 </colgroup>
                 <thead>
