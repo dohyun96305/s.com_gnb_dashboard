@@ -9,9 +9,9 @@ venv/
 .streamlit/secrets.toml
 
 # Generated local-only data
-.ppt-build/
 temp/
 output/translation_cache.json
+output_temp/
 
 # Presentation artifacts are not needed for the dashboard deployment
 *.pptx
